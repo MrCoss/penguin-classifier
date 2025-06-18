@@ -1,0 +1,1801 @@
+Species,Bill_Length_mm,Bill_Depth_mm,Flipper_Length_mm,Body_Mass_g,Sex,Island
+Adelie,41.4,19.9,209,3618,Male,Ross Island
+Adelie,39.4,17.5,182,3939,Female,Ross Island
+Adelie,43.4,19.1,180,4063,Male,Ross Island
+Adelie,45.5,17.6,187,3120,Male,Beaufort Island
+Adelie,40.7,18.6,197,3249,Male,Beaufort Island
+Adelie,43.5,17.4,191,3339,Female,Ross Island
+Adelie,42.1,19.4,187,3517,Male,Ross Island
+Adelie,43.3,17.1,204,3104,Male,Ross Island
+Adelie,38.6,19.8,218,3870,Male,Beaufort Island
+Adelie,40.7,17.3,207,3428,Male,Beaufort Island
+Adelie,39.1,18.5,181,3991,Female,Ross Island
+Adelie,40.3,19.0,192,3524,Female,Beaufort Island
+Adelie,42.9,17.6,218,3830,Female,Ross Island
+Adelie,46.5,19.7,203,4006,Male,Beaufort Island
+Adelie,38.8,17.6,181,3290,Female,Peter I Island
+Adelie,41.5,17.8,213,3328,Female,Ross Island
+Adelie,40.5,18.6,185,3862,Male,Peter I Island
+Adelie,38.7,20.0,210,3138,Male,Ross Island
+Adelie,38.0,19.4,208,3774,Female,Ross Island
+Adelie,44.9,17.2,194,3039,Female,Peter I Island
+Adelie,45.8,18.9,193,2976,Female,Ross Island
+Adelie,40.8,18.0,209,3665,Female,Beaufort Island
+Adelie,46.0,18.4,184,3755,Male,Peter I Island
+Adelie,44.8,18.7,210,3492,Male,Beaufort Island
+Adelie,42.7,18.3,181,3029,Female,Beaufort Island
+Adelie,38.3,18.9,192,3510,Female,Beaufort Island
+Adelie,46.2,17.7,196,3806,Male,Beaufort Island
+Adelie,40.1,17.2,191,3093,Male,Ross Island
+Adelie,46.4,19.4,205,3945,Male,Peter I Island
+Adelie,45.2,17.6,215,3547,Male,Ross Island
+Adelie,45.3,19.7,192,3032,Male,Peter I Island
+Adelie,40.1,18.3,212,3932,Female,Peter I Island
+Adelie,38.1,18.5,196,3166,Female,Ross Island
+Adelie,39.1,18.0,217,3287,Female,Peter I Island
+Adelie,42.7,19.1,194,4066,Male,Beaufort Island
+Adelie,46.7,17.8,199,3261,Female,Beaufort Island
+Adelie,40.6,17.1,204,3503,Male,Beaufort Island
+Adelie,38.5,17.8,216,3187,Male,Beaufort Island
+Adelie,39.3,18.5,219,3190,Male,Ross Island
+Adelie,44.0,19.3,189,3773,Female,Peter I Island
+Adelie,41.3,18.9,205,3542,Female,Beaufort Island
+Adelie,38.8,19.5,192,3123,Male,Beaufort Island
+Adelie,38.4,18.8,207,2919,Female,Ross Island
+Adelie,42.6,17.7,205,3109,Male,Ross Island
+Adelie,44.2,18.2,217,3065,Female,Peter I Island
+Adelie,41.1,17.3,216,3952,Female,Ross Island
+Adelie,40.3,19.0,212,3566,Male,Beaufort Island
+Adelie,42.8,17.7,183,3976,Female,Ross Island
+Adelie,46.1,18.9,193,3319,Female,Peter I Island
+Adelie,44.5,19.7,215,3835,Female,Ross Island
+Adelie,43.8,17.3,186,3978,Female,Ross Island
+Adelie,43.5,17.0,184,3696,Male,Beaufort Island
+Adelie,38.0,17.5,201,3730,Female,Beaufort Island
+Adelie,43.9,17.7,208,3184,Female,Beaufort Island
+Adelie,40.9,19.2,205,3919,Female,Peter I Island
+Adelie,43.9,18.7,183,3341,Male,Ross Island
+Adelie,40.4,17.7,218,3371,Female,Ross Island
+Adelie,46.0,18.9,211,3503,Male,Ross Island
+Adelie,43.2,18.5,187,3766,Male,Beaufort Island
+Adelie,40.5,17.1,205,3112,Male,Beaufort Island
+Adelie,46.5,19.9,216,3344,Female,Beaufort Island
+Adelie,38.1,19.8,197,4059,Male,Peter I Island
+Adelie,46.7,19.6,191,3362,Female,Beaufort Island
+Adelie,45.7,18.0,186,3568,Female,Beaufort Island
+Adelie,46.4,19.1,202,3016,Female,Beaufort Island
+Adelie,43.5,20.0,185,3521,Male,Beaufort Island
+Adelie,45.9,19.2,207,3742,Male,Beaufort Island
+Adelie,41.2,17.9,212,3872,Female,Beaufort Island
+Adelie,45.8,19.7,200,3501,Female,Ross Island
+Adelie,45.2,18.9,208,3854,Female,Peter I Island
+Adelie,46.0,18.0,195,3012,Male,Peter I Island
+Adelie,43.2,17.1,198,3551,Male,Beaufort Island
+Adelie,40.6,18.8,181,2944,Female,Beaufort Island
+Adelie,45.4,18.1,185,3526,Male,Beaufort Island
+Adelie,44.9,17.6,204,3002,Male,Beaufort Island
+Adelie,38.5,18.6,201,3664,Female,Beaufort Island
+Adelie,44.5,19.9,200,3287,Male,Ross Island
+Adelie,45.2,17.8,197,2994,Female,Ross Island
+Adelie,38.2,19.9,213,3735,Male,Beaufort Island
+Adelie,41.7,17.5,186,3200,Female,Peter I Island
+Adelie,42.9,19.1,206,3235,Male,Ross Island
+Adelie,46.6,19.2,202,3634,Female,Peter I Island
+Adelie,41.8,17.7,194,3809,Male,Ross Island
+Adelie,38.1,17.3,181,2948,Male,Beaufort Island
+Adelie,45.7,19.1,198,3017,Male,Ross Island
+Adelie,42.4,18.4,186,3420,Female,Ross Island
+Adelie,41.6,18.8,205,2954,Male,Ross Island
+Adelie,41.4,18.9,200,3927,Female,Beaufort Island
+Adelie,43.9,17.5,182,3670,Male,Peter I Island
+Adelie,38.2,18.8,217,3590,Female,Ross Island
+Adelie,41.5,18.9,198,3554,Male,Beaufort Island
+Adelie,46.5,18.2,218,3986,Female,Peter I Island
+Adelie,39.8,17.2,184,2921,Female,Peter I Island
+Adelie,38.8,19.0,182,3282,Female,Ross Island
+Adelie,45.6,17.1,212,3238,Male,Ross Island
+Adelie,39.1,19.1,205,3952,Male,Peter I Island
+Adelie,44.6,19.4,191,3112,Male,Beaufort Island
+Adelie,44.8,19.4,219,3395,Male,Beaufort Island
+Adelie,41.3,19.3,193,4016,Male,Ross Island
+Adelie,45.7,18.3,210,3805,Male,Beaufort Island
+African,39.2,20.6,195,4239,Male,Boulders Beach
+African,41.8,20.6,189,3016,Male,Boulders Beach
+African,48.9,17.4,185,4425,Female,Boulders Beach
+African,49.4,19.3,201,3672,Male,Boulders Beach
+African,41.5,18.3,203,4128,Female,Boulders Beach
+African,47.5,20.2,174,3741,Male,Boulders Beach
+African,38.7,19.2,192,4331,Male,Boulders Beach
+African,42.2,17.5,177,4142,Female,Boulders Beach
+African,45.4,17.4,174,4051,Male,Boulders Beach
+African,38.9,20.3,205,3122,Female,Boulders Beach
+African,39.0,20.9,188,3555,Female,Boulders Beach
+African,47.8,20.8,219,4130,Female,Boulders Beach
+African,42.5,17.3,208,3837,Male,Boulders Beach
+African,43.1,20.6,175,3738,Female,Boulders Beach
+African,38.1,18.9,172,3178,Male,Boulders Beach
+African,39.4,19.6,207,3875,Male,Boulders Beach
+African,49.5,18.5,184,4302,Female,Boulders Beach
+African,40.7,20.9,170,4454,Female,Boulders Beach
+African,38.5,20.6,196,4489,Female,Boulders Beach
+African,38.9,19.2,218,3784,Male,Boulders Beach
+African,45.6,19.8,192,3941,Female,Boulders Beach
+African,45.0,20.6,172,3421,Male,Boulders Beach
+African,49.4,20.6,192,3930,Male,Boulders Beach
+African,41.3,17.8,193,3530,Male,Boulders Beach
+African,45.0,17.3,218,4479,Female,Boulders Beach
+African,46.4,19.1,185,4220,Male,Boulders Beach
+African,46.2,17.7,215,4233,Male,Boulders Beach
+African,49.4,19.9,200,3627,Female,Boulders Beach
+African,49.2,20.5,172,3039,Female,Boulders Beach
+African,42.5,20.2,219,3225,Female,Boulders Beach
+African,45.1,18.5,218,4263,Female,Boulders Beach
+African,48.1,18.9,190,3410,Male,Boulders Beach
+African,38.7,20.5,210,4499,Female,Boulders Beach
+African,50.0,19.2,208,4417,Male,Boulders Beach
+African,48.2,18.0,192,3193,Female,Boulders Beach
+African,49.4,19.4,181,4007,Male,Boulders Beach
+African,45.4,18.4,175,4007,Male,Boulders Beach
+African,44.2,20.1,196,4278,Male,Boulders Beach
+African,44.6,19.2,213,3605,Male,Boulders Beach
+African,39.6,17.1,207,3930,Male,Boulders Beach
+African,46.4,17.9,176,3021,Male,Boulders Beach
+African,42.2,19.4,189,3656,Male,Boulders Beach
+African,48.8,18.4,195,4175,Female,Boulders Beach
+African,42.8,19.5,213,4424,Female,Boulders Beach
+African,39.8,20.7,194,3387,Female,Boulders Beach
+African,43.5,20.9,194,3493,Female,Boulders Beach
+African,45.6,18.0,173,3193,Male,Boulders Beach
+African,39.5,17.6,176,3961,Female,Boulders Beach
+African,40.2,18.4,214,3710,Male,Boulders Beach
+African,46.0,17.7,179,3061,Female,Boulders Beach
+African,40.0,18.1,178,3133,Male,Boulders Beach
+African,39.4,18.8,180,3546,Female,Boulders Beach
+African,44.0,19.8,171,4199,Female,Boulders Beach
+African,45.5,17.3,213,4381,Male,Boulders Beach
+African,38.7,18.1,210,4122,Female,Boulders Beach
+African,40.2,17.8,188,3726,Female,Boulders Beach
+African,45.4,18.5,193,4121,Male,Boulders Beach
+African,38.4,18.0,205,4342,Male,Boulders Beach
+African,44.1,19.1,175,3671,Female,Boulders Beach
+African,44.4,18.0,183,3565,Male,Boulders Beach
+African,38.2,18.3,180,3491,Female,Boulders Beach
+African,39.4,20.6,199,4018,Male,Boulders Beach
+African,47.5,19.0,174,3805,Male,Boulders Beach
+African,45.0,20.0,191,3191,Female,Boulders Beach
+African,41.4,18.5,202,3856,Male,Boulders Beach
+African,42.3,20.9,200,3355,Female,Boulders Beach
+African,39.2,17.6,182,3241,Male,Boulders Beach
+African,40.2,18.1,178,4345,Female,Boulders Beach
+African,39.0,19.1,190,4473,Female,Boulders Beach
+African,39.3,18.6,218,4298,Female,Boulders Beach
+African,47.8,18.0,178,4002,Male,Boulders Beach
+African,49.2,19.2,198,3419,Male,Boulders Beach
+African,47.2,17.7,186,3638,Male,Boulders Beach
+African,44.1,18.0,175,3915,Male,Boulders Beach
+African,41.5,19.3,177,3721,Male,Boulders Beach
+African,44.4,17.2,186,3201,Female,Boulders Beach
+African,38.8,21.0,186,4214,Male,Boulders Beach
+African,41.1,19.7,208,3893,Male,Boulders Beach
+African,43.7,18.6,187,4394,Male,Boulders Beach
+African,48.0,20.9,176,4096,Female,Boulders Beach
+African,49.3,17.7,173,4111,Male,Boulders Beach
+African,44.9,20.4,176,4192,Male,Boulders Beach
+African,40.4,17.7,178,4221,Male,Boulders Beach
+African,46.0,19.1,187,4315,Female,Boulders Beach
+African,42.7,20.3,191,3565,Male,Boulders Beach
+African,43.6,18.2,207,3754,Male,Boulders Beach
+African,40.8,20.6,189,3815,Female,Boulders Beach
+African,48.9,19.5,175,4409,Female,Boulders Beach
+African,45.5,18.3,176,4191,Male,Boulders Beach
+African,45.4,19.1,214,4182,Female,Boulders Beach
+African,39.8,18.2,182,4115,Male,Boulders Beach
+African,38.4,19.3,208,4315,Male,Boulders Beach
+African,42.1,20.3,175,4269,Female,Boulders Beach
+African,39.5,18.6,209,3224,Female,Boulders Beach
+African,40.8,19.9,206,3961,Female,Boulders Beach
+African,46.3,19.2,182,3518,Female,Boulders Beach
+African,40.2,20.6,199,3601,Male,Boulders Beach
+African,43.5,20.8,177,3879,Female,Boulders Beach
+African,44.1,19.4,170,4308,Female,Boulders Beach
+African,49.2,19.3,204,4383,Male,Boulders Beach
+Chinstrap,47.8,18.5,203,3606,Female,Livingston Island
+Chinstrap,44.7,20.2,217,3925,Female,Deception Island
+Chinstrap,45.0,18.3,219,3838,Female,Deception Island
+Chinstrap,41.4,20.8,214,3518,Female,Deception Island
+Chinstrap,46.5,19.2,182,3335,Female,Deception Island
+Chinstrap,48.8,18.0,193,3398,Male,Livingston Island
+Chinstrap,45.9,20.8,193,3346,Female,Deception Island
+Chinstrap,48.1,19.4,188,3452,Female,Livingston Island
+Chinstrap,41.5,18.5,199,3418,Male,Livingston Island
+Chinstrap,50.1,19.1,203,3632,Female,Livingston Island
+Chinstrap,40.1,20.0,187,3961,Female,Livingston Island
+Chinstrap,41.6,19.2,183,3996,Female,Deception Island
+Chinstrap,45.5,19.8,182,3749,Male,Livingston Island
+Chinstrap,42.3,20.7,188,3190,Female,Deception Island
+Chinstrap,40.4,19.4,202,3065,Female,Livingston Island
+Chinstrap,48.5,19.4,200,3440,Male,Livingston Island
+Chinstrap,44.4,19.7,186,3181,Female,Deception Island
+Chinstrap,49.5,20.8,194,3270,Female,Livingston Island
+Chinstrap,47.1,19.2,181,3156,Female,Livingston Island
+Chinstrap,47.9,20.0,181,3221,Female,Deception Island
+Chinstrap,42.5,20.0,180,3104,Female,Deception Island
+Chinstrap,48.8,18.5,206,3238,Male,Livingston Island
+Chinstrap,41.1,18.7,208,3855,Female,Deception Island
+Chinstrap,49.1,19.2,206,3204,Male,Livingston Island
+Chinstrap,43.2,20.7,180,3085,Male,Deception Island
+Chinstrap,42.3,18.1,187,3583,Male,Deception Island
+Chinstrap,44.6,20.7,212,3341,Male,Deception Island
+Chinstrap,42.9,19.1,203,3268,Female,Deception Island
+Chinstrap,46.9,19.2,202,3436,Female,Livingston Island
+Chinstrap,43.2,20.8,210,3140,Male,Livingston Island
+Chinstrap,49.6,19.5,215,3799,Female,Livingston Island
+Chinstrap,44.7,18.1,190,3541,Male,Deception Island
+Chinstrap,47.0,18.8,185,3834,Male,Deception Island
+Chinstrap,50.8,19.6,186,3272,Female,Deception Island
+Chinstrap,40.2,20.7,184,3576,Male,Livingston Island
+Chinstrap,43.0,19.7,206,3829,Male,Deception Island
+Chinstrap,42.3,18.0,185,3900,Male,Livingston Island
+Chinstrap,49.6,19.8,204,3665,Male,Livingston Island
+Chinstrap,41.9,20.7,196,3383,Female,Livingston Island
+Chinstrap,45.7,18.1,186,3738,Female,Livingston Island
+Chinstrap,40.9,19.8,189,3389,Male,Livingston Island
+Chinstrap,43.2,19.1,208,3297,Female,Livingston Island
+Chinstrap,46.2,19.4,206,3936,Male,Livingston Island
+Chinstrap,48.1,18.6,181,3262,Female,Deception Island
+Chinstrap,46.5,18.2,199,3596,Female,Livingston Island
+Chinstrap,43.7,20.3,184,3075,Male,Livingston Island
+Chinstrap,48.0,19.5,207,3434,Male,Livingston Island
+Chinstrap,42.7,20.5,211,3694,Female,Livingston Island
+Chinstrap,43.0,19.8,194,3091,Male,Deception Island
+Chinstrap,50.1,18.4,218,3446,Male,Deception Island
+Chinstrap,42.0,19.6,214,3732,Female,Deception Island
+Chinstrap,48.9,20.0,207,3849,Male,Deception Island
+Chinstrap,42.7,19.5,188,3987,Female,Livingston Island
+Chinstrap,50.4,18.1,208,3925,Female,Livingston Island
+Chinstrap,42.0,19.7,216,3033,Female,Deception Island
+Chinstrap,47.7,18.9,216,3971,Male,Livingston Island
+Chinstrap,50.4,19.4,214,3844,Female,Deception Island
+Chinstrap,43.5,20.5,181,3596,Female,Livingston Island
+Chinstrap,42.5,18.4,183,3696,Male,Livingston Island
+Chinstrap,43.7,20.2,182,3315,Female,Livingston Island
+Chinstrap,45.9,20.4,192,3625,Female,Deception Island
+Chinstrap,49.7,19.8,189,3024,Female,Deception Island
+Chinstrap,49.6,18.1,214,3528,Female,Livingston Island
+Chinstrap,50.3,20.4,219,3350,Female,Deception Island
+Chinstrap,48.4,19.2,199,3627,Female,Livingston Island
+Chinstrap,49.6,21.0,210,3417,Female,Deception Island
+Chinstrap,44.6,20.2,189,3110,Female,Deception Island
+Chinstrap,43.9,18.9,191,3233,Male,Livingston Island
+Chinstrap,40.5,18.1,219,3427,Male,Deception Island
+Chinstrap,44.2,20.0,188,3949,Female,Deception Island
+Chinstrap,48.6,18.3,196,3879,Female,Deception Island
+Chinstrap,50.4,19.4,204,3167,Male,Livingston Island
+Chinstrap,50.9,18.7,217,3649,Female,Livingston Island
+Chinstrap,46.7,19.5,189,3176,Male,Livingston Island
+Chinstrap,42.4,18.6,211,3350,Female,Livingston Island
+Chinstrap,40.6,20.9,215,3927,Female,Livingston Island
+Chinstrap,50.9,18.5,195,3758,Female,Livingston Island
+Chinstrap,47.7,18.5,212,3224,Male,Livingston Island
+Chinstrap,42.5,19.6,203,3580,Male,Deception Island
+Chinstrap,41.0,20.6,190,3129,Female,Deception Island
+Chinstrap,49.8,20.9,214,3809,Male,Deception Island
+Chinstrap,47.2,19.7,183,3408,Male,Deception Island
+Chinstrap,44.1,18.8,208,3495,Male,Deception Island
+Chinstrap,40.9,18.7,207,3076,Male,Deception Island
+Chinstrap,49.4,19.5,199,3592,Male,Livingston Island
+Chinstrap,49.1,19.0,207,3565,Male,Deception Island
+Chinstrap,42.9,20.6,211,3658,Female,Livingston Island
+Chinstrap,49.4,20.6,208,3837,Female,Deception Island
+Chinstrap,47.7,20.0,204,3752,Male,Deception Island
+Chinstrap,41.7,20.6,214,3029,Female,Deception Island
+Chinstrap,49.1,18.4,193,3743,Male,Livingston Island
+Chinstrap,41.8,20.5,213,3507,Female,Livingston Island
+Chinstrap,40.1,18.9,204,3981,Male,Deception Island
+Chinstrap,46.9,18.8,205,3539,Male,Deception Island
+Chinstrap,48.6,18.3,210,3541,Female,Deception Island
+Chinstrap,50.6,19.0,205,3932,Male,Livingston Island
+Chinstrap,41.1,20.8,207,3067,Female,Livingston Island
+Chinstrap,43.3,20.1,182,3582,Male,Livingston Island
+Chinstrap,43.8,19.9,181,3871,Male,Livingston Island
+Chinstrap,50.7,20.9,209,3130,Female,Deception Island
+Emperor,89.0,25.2,251,29854,Female,Cape Washington
+Emperor,82.2,32.7,290,31688,Female,Cape Crozier
+Emperor,76.8,35.0,275,31770,Female,Cape Crozier
+Emperor,74.1,32.9,291,28311,Female,Cape Washington
+Emperor,72.1,31.8,289,29098,Female,Cape Washington
+Emperor,93.8,26.5,275,39154,Female,Cape Washington
+Emperor,80.5,31.4,273,29113,Male,Cape Crozier
+Emperor,94.6,29.1,303,28449,Female,Cape Washington
+Emperor,75.3,25.3,289,30527,Male,Cape Washington
+Emperor,91.6,29.7,308,27782,Female,Cape Washington
+Emperor,91.7,32.8,296,37671,Male,Cape Washington
+Emperor,89.0,31.3,257,25487,Female,Cape Crozier
+Emperor,93.0,31.2,297,32222,Female,Cape Crozier
+Emperor,72.9,26.3,291,31454,Female,Cape Washington
+Emperor,75.0,29.9,253,33729,Female,Cape Washington
+Emperor,76.7,33.0,268,31828,Female,Cape Crozier
+Emperor,70.3,25.7,273,32199,Male,Cape Crozier
+Emperor,85.0,27.9,291,37901,Male,Cape Washington
+Emperor,89.5,25.4,278,26573,Female,Cape Crozier
+Emperor,76.1,34.9,258,32483,Female,Cape Washington
+Emperor,85.5,32.0,283,25146,Female,Cape Crozier
+Emperor,78.2,30.2,255,30259,Male,Cape Washington
+Emperor,70.8,25.8,273,26990,Male,Cape Washington
+Emperor,84.2,31.9,298,28002,Male,Cape Washington
+Emperor,74.2,26.0,288,35597,Female,Cape Washington
+Emperor,70.8,34.4,253,33119,Female,Cape Washington
+Emperor,87.7,33.7,292,37025,Female,Cape Washington
+Emperor,78.5,33.1,254,38422,Female,Cape Washington
+Emperor,83.7,33.2,277,34653,Female,Cape Washington
+Emperor,83.2,32.3,254,25905,Male,Cape Crozier
+Emperor,76.2,26.6,302,28288,Male,Cape Washington
+Emperor,94.4,28.4,260,36845,Male,Cape Crozier
+Emperor,86.5,30.0,283,35788,Male,Cape Crozier
+Emperor,75.7,35.0,308,34754,Female,Cape Washington
+Emperor,75.0,31.8,254,25459,Female,Cape Crozier
+Emperor,76.4,29.6,302,35907,Male,Cape Washington
+Emperor,88.6,29.3,270,30565,Male,Cape Washington
+Emperor,94.7,25.4,302,33680,Male,Cape Washington
+Emperor,81.0,32.3,279,38101,Male,Cape Crozier
+Emperor,92.5,29.2,266,33885,Female,Cape Crozier
+Emperor,92.8,27.1,287,34473,Male,Cape Washington
+Emperor,88.3,26.3,292,38635,Male,Cape Washington
+Emperor,74.5,27.4,308,27714,Male,Cape Crozier
+Emperor,91.4,29.9,264,38061,Female,Cape Washington
+Emperor,81.1,30.1,271,33894,Female,Cape Washington
+Emperor,74.1,28.9,308,28872,Female,Cape Crozier
+Emperor,86.4,28.3,296,26963,Male,Cape Washington
+Emperor,94.2,29.5,264,26102,Female,Cape Crozier
+Emperor,74.2,30.2,270,37433,Male,Cape Washington
+Emperor,80.8,27.5,287,35601,Female,Cape Crozier
+Emperor,74.2,26.7,252,36046,Male,Cape Crozier
+Emperor,86.6,29.7,300,37085,Male,Cape Washington
+Emperor,84.6,33.7,262,26678,Male,Cape Crozier
+Emperor,76.7,25.6,281,39049,Male,Cape Washington
+Emperor,71.0,26.2,277,39008,Male,Cape Washington
+Emperor,77.9,30.1,252,27225,Female,Cape Washington
+Emperor,94.7,34.7,250,39277,Female,Cape Washington
+Emperor,86.0,33.7,277,32733,Female,Cape Crozier
+Emperor,82.2,31.7,258,25449,Male,Cape Crozier
+Emperor,77.7,32.0,262,35101,Male,Cape Washington
+Emperor,94.2,25.9,290,31656,Male,Cape Crozier
+Emperor,91.7,26.8,291,37571,Male,Cape Crozier
+Emperor,93.6,31.8,279,34267,Male,Cape Crozier
+Emperor,91.7,30.7,251,38964,Male,Cape Washington
+Emperor,87.2,31.8,262,34883,Female,Cape Washington
+Emperor,79.8,31.5,256,34867,Female,Cape Crozier
+Emperor,95.0,25.5,308,31103,Male,Cape Washington
+Emperor,91.8,32.8,284,36076,Female,Cape Washington
+Emperor,92.0,29.0,269,35013,Male,Cape Crozier
+Emperor,90.2,32.6,297,31533,Female,Cape Crozier
+Emperor,90.4,26.2,282,25086,Female,Cape Crozier
+Emperor,78.1,28.7,273,35432,Male,Cape Crozier
+Emperor,79.7,29.5,264,30598,Female,Cape Crozier
+Emperor,75.7,25.7,286,35023,Male,Cape Crozier
+Emperor,85.5,29.6,272,37950,Male,Cape Washington
+Emperor,83.0,29.8,251,30118,Female,Cape Washington
+Emperor,79.5,29.0,284,33004,Male,Cape Washington
+Emperor,85.2,32.6,298,35771,Female,Cape Washington
+Emperor,93.9,25.2,261,25113,Female,Cape Washington
+Emperor,86.2,34.0,264,38905,Female,Cape Crozier
+Emperor,71.5,34.3,271,26521,Male,Cape Washington
+Emperor,82.1,27.6,267,29609,Female,Cape Washington
+Emperor,90.1,30.4,268,34155,Male,Cape Crozier
+Emperor,87.9,27.7,274,26828,Male,Cape Crozier
+Emperor,74.5,31.8,260,32877,Female,Cape Crozier
+Emperor,87.7,26.1,284,28848,Male,Cape Washington
+Emperor,94.1,29.8,298,33253,Female,Cape Washington
+Emperor,71.1,31.3,307,34024,Male,Cape Washington
+Emperor,90.5,33.8,263,28180,Female,Cape Crozier
+Emperor,85.3,29.1,300,38500,Female,Cape Washington
+Emperor,78.8,27.4,296,29122,Female,Cape Washington
+Emperor,90.6,29.2,290,26433,Female,Cape Crozier
+Emperor,85.6,29.5,285,27520,Male,Cape Washington
+Emperor,88.4,33.6,263,26435,Female,Cape Washington
+Emperor,70.6,31.4,286,33200,Female,Cape Washington
+Emperor,75.8,28.9,285,32451,Male,Cape Washington
+Emperor,94.7,26.4,291,31064,Male,Cape Washington
+Emperor,80.7,32.2,291,39868,Female,Cape Washington
+Emperor,73.2,26.0,293,33675,Male,Cape Washington
+Emperor,76.9,25.8,255,38412,Male,Cape Washington
+Erect-crested,46.9,21.6,206,4354,Female,Antipodes Island
+Erect-crested,45.7,22.6,202,4800,Male,Bounty Islands
+Erect-crested,47.3,22.7,226,4650,Female,Bounty Islands
+Erect-crested,50.3,21.6,209,4669,Male,Antipodes Island
+Erect-crested,54.9,23.3,216,4730,Female,Antipodes Island
+Erect-crested,49.7,20.3,216,4957,Female,Bounty Islands
+Erect-crested,46.8,23.5,206,4535,Female,Antipodes Island
+Erect-crested,46.0,22.3,222,4347,Male,Antipodes Island
+Erect-crested,51.6,24.0,227,4234,Male,Bounty Islands
+Erect-crested,49.0,20.8,229,4927,Male,Bounty Islands
+Erect-crested,50.4,24.2,215,4623,Male,Antipodes Island
+Erect-crested,45.9,23.8,203,4826,Male,Bounty Islands
+Erect-crested,52.8,23.5,201,4303,Male,Antipodes Island
+Erect-crested,47.6,21.8,202,4936,Female,Bounty Islands
+Erect-crested,50.5,21.5,211,4447,Female,Bounty Islands
+Erect-crested,51.0,22.6,227,4496,Female,Bounty Islands
+Erect-crested,54.9,24.3,206,4930,Male,Bounty Islands
+Erect-crested,46.2,24.1,211,4877,Male,Bounty Islands
+Erect-crested,53.7,24.0,223,4304,Male,Antipodes Island
+Erect-crested,45.8,22.0,205,4694,Male,Bounty Islands
+Erect-crested,48.5,24.9,219,4822,Female,Bounty Islands
+Erect-crested,46.3,24.3,227,4487,Female,Antipodes Island
+Erect-crested,51.1,23.8,205,4502,Female,Bounty Islands
+Erect-crested,49.0,20.7,211,4068,Female,Antipodes Island
+Erect-crested,45.3,20.7,228,4549,Female,Bounty Islands
+Erect-crested,54.7,22.2,209,4506,Female,Bounty Islands
+Erect-crested,49.4,20.5,219,4216,Female,Bounty Islands
+Erect-crested,51.2,23.3,204,4061,Female,Antipodes Island
+Erect-crested,52.8,22.3,201,4994,Male,Bounty Islands
+Erect-crested,45.6,23.5,229,4239,Male,Bounty Islands
+Erect-crested,46.4,20.6,209,4101,Male,Bounty Islands
+Erect-crested,51.9,20.3,215,4996,Female,Bounty Islands
+Erect-crested,53.1,23.1,209,4623,Female,Antipodes Island
+Erect-crested,50.3,22.1,203,4886,Female,Antipodes Island
+Erect-crested,49.5,21.0,211,4414,Male,Bounty Islands
+Erect-crested,53.3,23.7,223,4011,Male,Bounty Islands
+Erect-crested,49.2,22.4,200,4259,Male,Bounty Islands
+Erect-crested,52.6,20.7,216,4215,Male,Antipodes Island
+Erect-crested,45.1,21.2,229,4801,Female,Antipodes Island
+Erect-crested,54.6,22.4,203,4547,Male,Bounty Islands
+Erect-crested,49.5,24.2,202,4488,Female,Bounty Islands
+Erect-crested,46.5,21.6,222,4476,Female,Antipodes Island
+Erect-crested,48.8,22.0,213,4785,Female,Bounty Islands
+Erect-crested,53.9,24.8,223,4315,Female,Bounty Islands
+Erect-crested,51.9,22.2,207,4840,Male,Antipodes Island
+Erect-crested,45.4,24.5,213,4637,Male,Bounty Islands
+Erect-crested,51.6,24.5,219,4613,Male,Antipodes Island
+Erect-crested,45.7,22.6,204,4737,Female,Antipodes Island
+Erect-crested,50.1,23.4,201,4084,Male,Bounty Islands
+Erect-crested,52.2,20.4,202,4012,Male,Bounty Islands
+Erect-crested,54.6,23.7,210,4296,Male,Antipodes Island
+Erect-crested,48.5,23.9,219,4185,Female,Antipodes Island
+Erect-crested,46.7,20.5,219,4764,Female,Bounty Islands
+Erect-crested,47.7,20.1,202,4967,Female,Bounty Islands
+Erect-crested,48.0,23.8,218,4381,Male,Antipodes Island
+Erect-crested,47.1,20.6,218,4774,Female,Antipodes Island
+Erect-crested,51.4,22.7,201,4968,Male,Antipodes Island
+Erect-crested,53.0,21.5,229,4601,Male,Bounty Islands
+Erect-crested,50.8,23.7,224,4656,Male,Bounty Islands
+Erect-crested,46.3,21.7,227,4224,Male,Antipodes Island
+Erect-crested,48.7,22.2,213,4612,Female,Bounty Islands
+Erect-crested,54.4,21.2,203,4197,Female,Bounty Islands
+Erect-crested,53.9,23.2,208,4815,Male,Bounty Islands
+Erect-crested,53.6,24.2,227,4252,Female,Antipodes Island
+Erect-crested,52.6,22.3,225,4728,Male,Bounty Islands
+Erect-crested,52.8,23.3,205,4545,Female,Bounty Islands
+Erect-crested,54.8,24.7,201,4164,Female,Bounty Islands
+Erect-crested,46.3,23.6,224,4213,Female,Bounty Islands
+Erect-crested,50.1,24.2,221,4542,Male,Bounty Islands
+Erect-crested,50.9,22.5,208,4565,Female,Antipodes Island
+Erect-crested,51.9,24.4,219,4761,Male,Bounty Islands
+Erect-crested,46.6,22.3,200,4246,Female,Bounty Islands
+Erect-crested,52.3,25.0,202,4401,Female,Antipodes Island
+Erect-crested,53.0,21.0,216,4733,Female,Bounty Islands
+Erect-crested,51.2,20.9,210,4783,Male,Antipodes Island
+Erect-crested,50.5,20.0,222,4035,Female,Bounty Islands
+Erect-crested,52.5,21.0,228,4367,Male,Bounty Islands
+Erect-crested,48.3,20.7,209,4876,Male,Antipodes Island
+Erect-crested,55.0,21.8,213,4722,Female,Antipodes Island
+Erect-crested,53.9,23.0,211,4412,Male,Antipodes Island
+Erect-crested,52.0,20.0,218,4355,Female,Bounty Islands
+Erect-crested,52.9,20.5,217,4480,Male,Bounty Islands
+Erect-crested,51.4,20.3,217,4561,Male,Antipodes Island
+Erect-crested,50.6,23.0,220,4804,Female,Bounty Islands
+Erect-crested,47.7,24.1,214,4077,Female,Antipodes Island
+Erect-crested,45.6,21.7,223,4707,Male,Antipodes Island
+Erect-crested,52.9,22.6,213,4147,Female,Bounty Islands
+Erect-crested,48.3,22.2,202,4220,Male,Bounty Islands
+Erect-crested,51.0,23.7,229,4933,Female,Bounty Islands
+Erect-crested,51.4,22.1,219,4785,Female,Antipodes Island
+Erect-crested,46.2,22.0,225,4383,Female,Antipodes Island
+Erect-crested,50.7,22.9,205,4362,Male,Antipodes Island
+Erect-crested,48.3,20.1,200,4831,Female,Bounty Islands
+Erect-crested,47.7,22.6,208,4940,Male,Bounty Islands
+Erect-crested,47.6,22.1,226,4841,Male,Bounty Islands
+Erect-crested,46.9,24.0,213,4482,Male,Bounty Islands
+Erect-crested,46.3,20.4,221,4496,Female,Bounty Islands
+Erect-crested,49.4,23.6,222,4158,Female,Bounty Islands
+Erect-crested,51.1,20.7,222,4656,Male,Antipodes Island
+Erect-crested,54.6,20.3,201,4282,Female,Antipodes Island
+Fiordland,47.6,18.7,207,3249,Female,South Fiordland
+Fiordland,47.7,20.3,193,3776,Male,South Fiordland
+Fiordland,45.7,19.5,181,3062,Female,South Fiordland
+Fiordland,54.1,18.4,195,3411,Male,South Fiordland
+Fiordland,48.5,20.7,180,3663,Male,South Fiordland
+Fiordland,54.6,19.7,208,3052,Female,South Fiordland
+Fiordland,49.2,18.8,201,3981,Male,South Fiordland
+Fiordland,47.6,20.0,185,3565,Male,South Fiordland
+Fiordland,49.6,20.9,198,3349,Female,South Fiordland
+Fiordland,46.1,18.5,186,3250,Female,South Fiordland
+Fiordland,53.5,19.7,195,3114,Male,South Fiordland
+Fiordland,53.6,20.2,182,3707,Male,South Fiordland
+Fiordland,50.4,18.2,193,3484,Female,South Fiordland
+Fiordland,46.7,20.8,205,3669,Male,South Fiordland
+Fiordland,49.6,19.2,199,3545,Male,South Fiordland
+Fiordland,45.6,19.5,204,3459,Female,South Fiordland
+Fiordland,45.5,20.4,186,3258,Female,South Fiordland
+Fiordland,46.6,19.0,202,3519,Female,South Fiordland
+Fiordland,47.0,20.6,206,3870,Male,South Fiordland
+Fiordland,47.4,19.4,209,3772,Female,South Fiordland
+Fiordland,45.3,18.2,193,3909,Male,South Fiordland
+Fiordland,50.4,19.5,183,3656,Male,South Fiordland
+Fiordland,53.2,19.1,203,3964,Male,South Fiordland
+Fiordland,47.0,19.6,188,3792,Female,South Fiordland
+Fiordland,50.8,19.9,203,3395,Male,South Fiordland
+Fiordland,54.2,19.6,184,3695,Male,South Fiordland
+Fiordland,52.9,19.0,205,3906,Male,South Fiordland
+Fiordland,47.8,21.0,184,3202,Female,South Fiordland
+Fiordland,46.8,20.7,199,3152,Male,South Fiordland
+Fiordland,49.4,19.8,182,3882,Male,South Fiordland
+Fiordland,53.0,19.5,209,3417,Female,South Fiordland
+Fiordland,54.8,20.0,199,3165,Male,South Fiordland
+Fiordland,53.8,19.3,184,3012,Male,South Fiordland
+Fiordland,50.6,19.6,201,3890,Female,South Fiordland
+Fiordland,45.8,20.2,185,3858,Female,South Fiordland
+Fiordland,53.2,19.6,201,3314,Male,South Fiordland
+Fiordland,49.7,20.5,193,3357,Male,South Fiordland
+Fiordland,49.9,20.5,190,3173,Female,South Fiordland
+Fiordland,52.1,20.5,183,3239,Male,South Fiordland
+Fiordland,46.4,19.0,193,3748,Female,South Fiordland
+Fiordland,51.5,19.9,190,3841,Male,South Fiordland
+Fiordland,49.7,20.9,199,3126,Male,South Fiordland
+Fiordland,51.8,19.0,200,3069,Female,South Fiordland
+Fiordland,46.7,20.6,186,3837,Male,South Fiordland
+Fiordland,47.8,19.9,200,3512,Female,South Fiordland
+Fiordland,48.1,18.6,180,3303,Female,South Fiordland
+Fiordland,51.5,20.8,206,3766,Female,South Fiordland
+Fiordland,52.9,20.0,187,3907,Male,South Fiordland
+Fiordland,51.7,19.7,183,3447,Female,South Fiordland
+Fiordland,49.6,20.6,196,3380,Male,South Fiordland
+Fiordland,54.8,18.3,192,3042,Female,South Fiordland
+Fiordland,52.4,20.8,188,3858,Female,South Fiordland
+Fiordland,47.9,20.7,202,3804,Female,South Fiordland
+Fiordland,45.2,20.9,201,3304,Male,South Fiordland
+Fiordland,53.3,18.8,206,3112,Male,South Fiordland
+Fiordland,52.0,19.6,182,3241,Female,South Fiordland
+Fiordland,45.1,19.4,189,3598,Female,South Fiordland
+Fiordland,48.0,18.9,202,3048,Female,South Fiordland
+Fiordland,54.0,20.6,200,3593,Female,South Fiordland
+Fiordland,53.9,18.6,182,3239,Female,South Fiordland
+Fiordland,52.9,18.1,197,3995,Female,South Fiordland
+Fiordland,53.6,19.6,181,3831,Female,South Fiordland
+Fiordland,51.0,18.3,182,3909,Female,South Fiordland
+Fiordland,51.7,20.5,206,3571,Male,South Fiordland
+Fiordland,50.2,19.3,189,3434,Male,South Fiordland
+Fiordland,52.7,19.8,206,3443,Male,South Fiordland
+Fiordland,51.1,19.9,197,3702,Male,South Fiordland
+Fiordland,47.4,19.5,183,3384,Female,South Fiordland
+Fiordland,49.9,20.0,208,3600,Female,South Fiordland
+Fiordland,52.4,19.5,199,3070,Female,South Fiordland
+Fiordland,47.5,19.1,194,3045,Female,South Fiordland
+Fiordland,46.4,18.8,209,3331,Female,South Fiordland
+Fiordland,49.8,18.6,198,3280,Male,South Fiordland
+Fiordland,47.1,19.5,180,3007,Female,South Fiordland
+Fiordland,47.2,18.1,183,3338,Male,South Fiordland
+Fiordland,53.0,19.7,195,3293,Female,South Fiordland
+Fiordland,54.3,19.2,182,3617,Female,South Fiordland
+Fiordland,46.1,19.0,195,3874,Female,South Fiordland
+Fiordland,49.9,20.1,209,3131,Female,South Fiordland
+Fiordland,47.7,19.2,192,3411,Male,South Fiordland
+Fiordland,54.1,20.1,198,3309,Female,South Fiordland
+Fiordland,53.2,20.9,204,3001,Female,South Fiordland
+Fiordland,51.4,18.2,187,3059,Male,South Fiordland
+Fiordland,51.0,20.1,183,3383,Female,South Fiordland
+Fiordland,49.6,19.1,183,3418,Male,South Fiordland
+Fiordland,52.5,18.2,182,3354,Male,South Fiordland
+Fiordland,54.4,20.0,200,3361,Female,South Fiordland
+Fiordland,50.9,18.0,199,3913,Female,South Fiordland
+Fiordland,51.1,20.6,201,3120,Male,South Fiordland
+Fiordland,54.0,18.2,196,3142,Female,South Fiordland
+Fiordland,45.1,19.3,188,3486,Male,South Fiordland
+Fiordland,50.8,18.1,183,3558,Male,South Fiordland
+Fiordland,48.4,20.2,199,3845,Male,South Fiordland
+Fiordland,51.9,19.3,200,3275,Female,South Fiordland
+Fiordland,48.1,20.4,193,3798,Female,South Fiordland
+Fiordland,53.2,20.6,207,3430,Female,South Fiordland
+Fiordland,48.2,19.7,191,3601,Female,South Fiordland
+Fiordland,52.1,20.1,191,3166,Male,South Fiordland
+Fiordland,49.3,18.4,206,3345,Female,South Fiordland
+Fiordland,46.5,18.1,199,3636,Female,South Fiordland
+Galápagos,48.4,18.3,192,3017,Female,Galápagos Islands
+Galápagos,51.8,20.4,190,2952,Male,Galápagos Islands
+Galápagos,54.9,19.8,200,2898,Male,Galápagos Islands
+Galápagos,49.9,18.1,195,3474,Male,Galápagos Islands
+Galápagos,48.8,18.2,180,3071,Male,Galápagos Islands
+Galápagos,46.6,18.1,202,3120,Female,Galápagos Islands
+Galápagos,47.9,21.6,183,3469,Female,Galápagos Islands
+Galápagos,48.1,21.6,198,3378,Male,Galápagos Islands
+Galápagos,54.8,19.2,208,3072,Female,Galápagos Islands
+Galápagos,48.9,19.4,196,2907,Male,Galápagos Islands
+Galápagos,50.5,20.2,202,3383,Male,Galápagos Islands
+Galápagos,49.4,19.2,187,2936,Male,Galápagos Islands
+Galápagos,45.6,19.4,188,3476,Male,Galápagos Islands
+Galápagos,50.6,19.4,197,2897,Male,Galápagos Islands
+Galápagos,49.4,20.5,194,3081,Male,Galápagos Islands
+Galápagos,54.9,21.5,198,3198,Female,Galápagos Islands
+Galápagos,51.2,18.8,191,2827,Female,Galápagos Islands
+Galápagos,49.8,20.2,186,3474,Male,Galápagos Islands
+Galápagos,54.1,20.9,196,3408,Male,Galápagos Islands
+Galápagos,46.3,21.2,183,3355,Male,Galápagos Islands
+Galápagos,47.8,21.5,208,2904,Female,Galápagos Islands
+Galápagos,49.6,21.9,194,3404,Female,Galápagos Islands
+Galápagos,50.9,19.5,188,2942,Male,Galápagos Islands
+Galápagos,52.6,19.5,195,3144,Female,Galápagos Islands
+Galápagos,50.8,21.5,209,3085,Female,Galápagos Islands
+Galápagos,53.3,21.1,197,3469,Female,Galápagos Islands
+Galápagos,47.0,18.4,205,3107,Female,Galápagos Islands
+Galápagos,53.5,21.6,181,3418,Male,Galápagos Islands
+Galápagos,49.5,20.0,198,3448,Male,Galápagos Islands
+Galápagos,45.2,19.9,200,3305,Female,Galápagos Islands
+Galápagos,51.9,18.5,188,3051,Male,Galápagos Islands
+Galápagos,53.0,19.1,186,3470,Male,Galápagos Islands
+Galápagos,45.1,22.0,200,3379,Male,Galápagos Islands
+Galápagos,47.9,18.1,202,3383,Male,Galápagos Islands
+Galápagos,52.4,18.6,202,3338,Male,Galápagos Islands
+Galápagos,51.6,21.1,205,3229,Female,Galápagos Islands
+Galápagos,45.9,20.0,182,3085,Female,Galápagos Islands
+Galápagos,49.1,18.3,190,2877,Male,Galápagos Islands
+Galápagos,53.1,21.8,182,3468,Male,Galápagos Islands
+Galápagos,50.2,19.2,182,3150,Female,Galápagos Islands
+Galápagos,52.9,20.8,181,2851,Female,Galápagos Islands
+Galápagos,49.0,19.2,186,2996,Female,Galápagos Islands
+Galápagos,53.0,21.7,192,3434,Female,Galápagos Islands
+Galápagos,48.2,19.9,186,3248,Female,Galápagos Islands
+Galápagos,54.8,20.4,190,3253,Male,Galápagos Islands
+Galápagos,46.2,21.6,195,3114,Female,Galápagos Islands
+Galápagos,50.9,20.5,182,3277,Male,Galápagos Islands
+Galápagos,47.4,20.9,204,3362,Female,Galápagos Islands
+Galápagos,50.5,20.1,184,3342,Female,Galápagos Islands
+Galápagos,47.7,20.0,188,2893,Female,Galápagos Islands
+Galápagos,51.3,18.2,202,3022,Male,Galápagos Islands
+Galápagos,45.0,20.0,181,2993,Female,Galápagos Islands
+Galápagos,52.1,18.3,205,2802,Female,Galápagos Islands
+Galápagos,47.5,21.0,189,2871,Male,Galápagos Islands
+Galápagos,48.6,19.1,205,3019,Male,Galápagos Islands
+Galápagos,52.9,21.6,193,3436,Female,Galápagos Islands
+Galápagos,48.8,21.9,182,3280,Female,Galápagos Islands
+Galápagos,49.9,19.6,198,3292,Female,Galápagos Islands
+Galápagos,45.0,18.7,201,3266,Female,Galápagos Islands
+Galápagos,54.7,21.0,208,3291,Male,Galápagos Islands
+Galápagos,48.0,18.4,203,3250,Male,Galápagos Islands
+Galápagos,45.5,19.4,208,3150,Male,Galápagos Islands
+Galápagos,49.3,19.8,186,3058,Female,Galápagos Islands
+Galápagos,48.7,18.2,203,3091,Male,Galápagos Islands
+Galápagos,53.2,21.4,186,3260,Male,Galápagos Islands
+Galápagos,49.7,21.5,186,3274,Female,Galápagos Islands
+Galápagos,51.1,19.2,184,3256,Female,Galápagos Islands
+Galápagos,52.4,19.3,199,3076,Male,Galápagos Islands
+Galápagos,52.1,18.8,206,3001,Female,Galápagos Islands
+Galápagos,48.7,18.2,183,3161,Male,Galápagos Islands
+Galápagos,47.7,21.3,180,3065,Female,Galápagos Islands
+Galápagos,48.4,18.1,183,3089,Male,Galápagos Islands
+Galápagos,49.9,19.6,195,3216,Female,Galápagos Islands
+Galápagos,45.1,19.9,208,3163,Male,Galápagos Islands
+Galápagos,51.8,19.2,203,3341,Female,Galápagos Islands
+Galápagos,50.2,21.9,183,2811,Male,Galápagos Islands
+Galápagos,52.7,21.2,183,2985,Male,Galápagos Islands
+Galápagos,45.2,19.2,203,3162,Female,Galápagos Islands
+Galápagos,48.5,19.5,180,3009,Male,Galápagos Islands
+Galápagos,51.5,21.9,205,2816,Male,Galápagos Islands
+Galápagos,54.0,21.1,203,3120,Male,Galápagos Islands
+Galápagos,49.0,19.2,181,2959,Male,Galápagos Islands
+Galápagos,47.5,19.9,202,3131,Female,Galápagos Islands
+Galápagos,45.6,21.8,208,3349,Female,Galápagos Islands
+Galápagos,54.9,20.2,208,2852,Male,Galápagos Islands
+Galápagos,48.7,18.9,185,2898,Female,Galápagos Islands
+Galápagos,51.2,21.1,197,2902,Male,Galápagos Islands
+Galápagos,53.1,20.5,191,3271,Female,Galápagos Islands
+Galápagos,47.6,19.4,207,3003,Male,Galápagos Islands
+Galápagos,49.7,21.6,201,2843,Female,Galápagos Islands
+Galápagos,46.5,18.0,198,3113,Female,Galápagos Islands
+Galápagos,46.3,21.8,195,2969,Female,Galápagos Islands
+Galápagos,50.0,20.7,182,2992,Male,Galápagos Islands
+Galápagos,53.1,19.8,196,3102,Female,Galápagos Islands
+Galápagos,45.4,18.7,193,2946,Female,Galápagos Islands
+Galápagos,45.5,21.4,209,3355,Male,Galápagos Islands
+Galápagos,53.5,19.0,208,2937,Female,Galápagos Islands
+Galápagos,54.5,22.0,201,3486,Male,Galápagos Islands
+Galápagos,50.7,19.0,193,3215,Female,Galápagos Islands
+Galápagos,45.7,20.5,209,2933,Female,Galápagos Islands
+Gentoo,56.9,16.6,228,5940,Male,South Georgia
+Gentoo,52.8,16.9,225,4742,Female,Falkland Islands
+Gentoo,52.2,15.9,214,5460,Female,Falkland Islands
+Gentoo,55.0,13.7,221,5657,Female,South Georgia
+Gentoo,52.5,13.0,210,5035,Male,South Georgia
+Gentoo,58.9,13.9,222,4833,Male,South Georgia
+Gentoo,49.8,16.4,224,4643,Male,Falkland Islands
+Gentoo,51.4,13.1,219,5493,Female,Falkland Islands
+Gentoo,46.8,14.2,217,5879,Female,Falkland Islands
+Gentoo,59.9,13.2,225,5057,Male,Falkland Islands
+Gentoo,50.9,16.0,228,5926,Female,South Georgia
+Gentoo,53.7,14.4,225,4876,Male,South Georgia
+Gentoo,53.5,14.4,223,4860,Female,Falkland Islands
+Gentoo,47.9,16.7,212,5258,Male,Falkland Islands
+Gentoo,48.3,13.2,210,4762,Female,Falkland Islands
+Gentoo,58.0,14.1,229,5372,Male,South Georgia
+Gentoo,51.5,15.3,220,5638,Male,South Georgia
+Gentoo,49.2,14.4,227,5919,Male,South Georgia
+Gentoo,58.4,14.7,225,5214,Male,Falkland Islands
+Gentoo,52.5,13.8,221,4779,Male,South Georgia
+Gentoo,50.0,16.4,214,4606,Female,Falkland Islands
+Gentoo,46.0,16.8,220,5114,Male,South Georgia
+Gentoo,57.2,16.3,216,5540,Male,Falkland Islands
+Gentoo,56.6,15.6,213,5813,Male,South Georgia
+Gentoo,53.1,14.1,218,4556,Female,Falkland Islands
+Gentoo,46.9,16.1,210,5124,Female,Falkland Islands
+Gentoo,52.8,13.2,229,4839,Female,Falkland Islands
+Gentoo,49.6,14.2,214,4502,Male,South Georgia
+Gentoo,55.9,16.9,214,5494,Male,Falkland Islands
+Gentoo,56.1,16.4,218,4954,Female,South Georgia
+Gentoo,49.9,15.9,226,4772,Male,South Georgia
+Gentoo,50.6,16.6,226,5977,Female,South Georgia
+Gentoo,56.3,14.6,221,5491,Male,South Georgia
+Gentoo,46.2,15.2,224,4750,Male,South Georgia
+Gentoo,56.7,15.3,229,4563,Male,Falkland Islands
+Gentoo,49.0,15.4,215,5571,Female,Falkland Islands
+Gentoo,56.4,13.4,220,5263,Male,South Georgia
+Gentoo,50.5,16.7,226,5545,Female,Falkland Islands
+Gentoo,55.7,14.8,228,5541,Female,South Georgia
+Gentoo,55.9,16.4,215,5710,Male,Falkland Islands
+Gentoo,47.9,14.4,216,5967,Male,South Georgia
+Gentoo,57.8,15.8,224,5343,Male,South Georgia
+Gentoo,59.2,15.0,217,4744,Male,Falkland Islands
+Gentoo,56.8,15.9,217,4537,Male,Falkland Islands
+Gentoo,57.6,13.0,224,5955,Female,South Georgia
+Gentoo,51.6,13.9,224,5725,Female,South Georgia
+Gentoo,53.2,16.9,211,5257,Female,Falkland Islands
+Gentoo,55.8,16.5,213,5700,Male,South Georgia
+Gentoo,53.3,14.6,212,5797,Female,Falkland Islands
+Gentoo,47.4,14.2,215,5807,Female,South Georgia
+Gentoo,55.1,16.2,215,5437,Male,South Georgia
+Gentoo,53.6,16.3,228,4518,Female,South Georgia
+Gentoo,55.1,13.2,220,4931,Female,South Georgia
+Gentoo,49.6,14.4,222,5001,Female,Falkland Islands
+Gentoo,56.0,14.6,211,5675,Female,South Georgia
+Gentoo,49.3,14.7,223,4998,Female,South Georgia
+Gentoo,45.8,14.5,228,5462,Male,South Georgia
+Gentoo,55.1,15.5,213,5127,Male,South Georgia
+Gentoo,56.3,13.4,215,4914,Male,South Georgia
+Gentoo,51.5,16.9,211,5278,Female,Falkland Islands
+Gentoo,47.7,16.9,212,5105,Male,South Georgia
+Gentoo,56.1,15.8,218,5019,Female,South Georgia
+Gentoo,51.0,14.1,214,5224,Female,South Georgia
+Gentoo,49.0,14.1,223,5952,Male,South Georgia
+Gentoo,54.1,13.3,211,5927,Female,South Georgia
+Gentoo,49.5,13.4,221,5435,Male,South Georgia
+Gentoo,54.7,14.1,210,5947,Female,South Georgia
+Gentoo,48.8,15.7,224,5415,Male,Falkland Islands
+Gentoo,49.7,14.1,221,5799,Female,South Georgia
+Gentoo,59.2,13.4,213,5917,Male,Falkland Islands
+Gentoo,56.0,16.5,214,5381,Male,South Georgia
+Gentoo,55.5,15.7,218,4523,Male,Falkland Islands
+Gentoo,53.7,14.0,219,5936,Male,Falkland Islands
+Gentoo,51.0,16.4,213,5508,Female,South Georgia
+Gentoo,59.7,13.4,210,5150,Female,Falkland Islands
+Gentoo,46.4,16.0,228,5151,Male,South Georgia
+Gentoo,48.9,14.7,224,4513,Female,South Georgia
+Gentoo,53.8,15.5,222,4863,Female,Falkland Islands
+Gentoo,55.7,13.4,213,5816,Male,South Georgia
+Gentoo,56.1,13.1,214,4821,Female,South Georgia
+Gentoo,49.1,14.0,211,5188,Female,Falkland Islands
+Gentoo,56.0,15.4,223,4621,Male,Falkland Islands
+Gentoo,59.3,16.4,226,5734,Male,South Georgia
+Gentoo,59.0,15.2,214,5425,Female,Falkland Islands
+Gentoo,56.1,16.0,220,4602,Female,South Georgia
+Gentoo,50.6,16.7,221,5307,Female,Falkland Islands
+Gentoo,49.0,14.5,227,5499,Female,South Georgia
+Gentoo,56.8,14.8,222,4872,Male,Falkland Islands
+Gentoo,55.6,14.7,218,5473,Male,Falkland Islands
+Gentoo,59.0,13.3,226,4938,Female,Falkland Islands
+Gentoo,51.7,13.1,216,5253,Female,Falkland Islands
+Gentoo,45.8,15.0,228,4658,Female,South Georgia
+Gentoo,56.5,14.6,223,4890,Male,South Georgia
+Gentoo,47.4,13.6,211,4778,Female,Falkland Islands
+Gentoo,55.0,16.5,226,5527,Male,South Georgia
+Gentoo,46.7,14.2,216,4874,Male,Falkland Islands
+Gentoo,52.7,15.1,217,5030,Male,Falkland Islands
+Gentoo,57.4,16.2,216,5870,Male,South Georgia
+Gentoo,59.3,14.3,217,5258,Male,South Georgia
+Gentoo,59.1,16.5,212,5089,Female,South Georgia
+Humboldt,47.5,19.0,185,4788,Male,Peru Coast
+Humboldt,48.8,20.4,205,4622,Male,Chile Coast
+Humboldt,46.4,19.4,184,4510,Female,Chile Coast
+Humboldt,43.8,19.8,186,3676,Female,Chile Coast
+Humboldt,43.7,17.0,201,4598,Male,Peru Coast
+Humboldt,47.1,17.6,182,3528,Female,Peru Coast
+Humboldt,43.7,20.6,187,4031,Female,Chile Coast
+Humboldt,43.1,17.9,195,4411,Female,Peru Coast
+Humboldt,44.5,17.2,191,3851,Male,Peru Coast
+Humboldt,44.2,20.8,198,4335,Female,Peru Coast
+Humboldt,46.2,18.7,196,4544,Male,Peru Coast
+Humboldt,49.0,17.7,195,4117,Female,Peru Coast
+Humboldt,50.7,19.5,195,3673,Male,Chile Coast
+Humboldt,48.1,17.5,190,3714,Male,Chile Coast
+Humboldt,48.9,17.8,191,4843,Female,Peru Coast
+Humboldt,44.0,19.0,192,3527,Female,Peru Coast
+Humboldt,49.9,17.3,194,4341,Female,Peru Coast
+Humboldt,48.3,19.8,187,3514,Female,Peru Coast
+Humboldt,49.2,19.1,205,4732,Male,Peru Coast
+Humboldt,50.4,18.9,190,4687,Male,Chile Coast
+Humboldt,46.5,17.7,205,4823,Male,Peru Coast
+Humboldt,46.7,17.3,191,4705,Male,Peru Coast
+Humboldt,51.0,17.8,182,4816,Female,Peru Coast
+Humboldt,45.9,19.2,209,3599,Female,Peru Coast
+Humboldt,48.5,17.3,191,4705,Female,Chile Coast
+Humboldt,46.3,21.0,196,3981,Female,Chile Coast
+Humboldt,44.2,18.4,191,3603,Male,Chile Coast
+Humboldt,45.7,18.9,201,4485,Female,Chile Coast
+Humboldt,49.1,17.0,186,4492,Male,Peru Coast
+Humboldt,46.8,17.0,204,4659,Male,Chile Coast
+Humboldt,47.5,17.3,202,4375,Female,Chile Coast
+Humboldt,49.8,20.0,204,4277,Female,Peru Coast
+Humboldt,43.4,19.7,198,4613,Female,Peru Coast
+Humboldt,43.7,17.8,206,4624,Female,Chile Coast
+Humboldt,51.1,20.0,197,4481,Female,Chile Coast
+Humboldt,50.9,19.3,198,3734,Male,Chile Coast
+Humboldt,46.7,19.9,188,3803,Male,Chile Coast
+Humboldt,45.1,18.0,186,4137,Male,Chile Coast
+Humboldt,51.1,19.0,185,3615,Male,Chile Coast
+Humboldt,49.0,18.5,204,4489,Female,Peru Coast
+Humboldt,50.0,18.1,200,3896,Male,Peru Coast
+Humboldt,51.4,19.5,189,3904,Male,Chile Coast
+Humboldt,43.9,19.8,186,4392,Female,Chile Coast
+Humboldt,44.6,19.6,204,4667,Male,Peru Coast
+Humboldt,49.6,17.8,182,4548,Female,Chile Coast
+Humboldt,45.7,18.7,180,3889,Male,Peru Coast
+Humboldt,42.3,20.5,187,4336,Female,Chile Coast
+Humboldt,42.4,19.7,189,4846,Female,Chile Coast
+Humboldt,50.9,18.3,207,4994,Female,Peru Coast
+Humboldt,50.3,20.4,187,4365,Male,Chile Coast
+Humboldt,42.7,17.4,209,3989,Female,Peru Coast
+Humboldt,49.5,20.2,205,4996,Male,Chile Coast
+Humboldt,44.4,17.2,192,3695,Male,Peru Coast
+Humboldt,42.2,18.4,203,4349,Female,Chile Coast
+Humboldt,45.1,19.6,186,3521,Female,Chile Coast
+Humboldt,49.6,19.5,202,3558,Male,Peru Coast
+Humboldt,50.4,19.5,196,4436,Female,Peru Coast
+Humboldt,50.6,19.3,197,4986,Female,Chile Coast
+Humboldt,49.6,18.8,201,4083,Female,Chile Coast
+Humboldt,44.3,19.4,207,4893,Male,Chile Coast
+Humboldt,45.4,19.1,186,4993,Male,Peru Coast
+Humboldt,51.8,19.6,204,4572,Female,Chile Coast
+Humboldt,47.9,17.2,193,4512,Male,Chile Coast
+Humboldt,48.8,18.5,208,3751,Female,Chile Coast
+Humboldt,47.0,19.8,200,4472,Male,Peru Coast
+Humboldt,44.8,17.6,199,4398,Male,Chile Coast
+Humboldt,43.8,19.8,193,4501,Female,Chile Coast
+Humboldt,50.4,17.7,180,4668,Female,Peru Coast
+Humboldt,48.1,19.8,205,4704,Male,Chile Coast
+Humboldt,51.6,19.1,194,4102,Male,Peru Coast
+Humboldt,43.5,19.3,188,4881,Male,Peru Coast
+Humboldt,47.8,19.4,190,3577,Female,Chile Coast
+Humboldt,42.3,18.7,182,4410,Female,Peru Coast
+Humboldt,50.8,20.5,199,3816,Male,Chile Coast
+Humboldt,50.6,20.5,185,4606,Female,Peru Coast
+Humboldt,44.9,20.2,209,3545,Female,Chile Coast
+Humboldt,51.0,19.5,209,4197,Female,Chile Coast
+Humboldt,50.5,17.2,190,3600,Female,Chile Coast
+Humboldt,51.8,20.3,205,4906,Male,Chile Coast
+Humboldt,42.9,18.5,182,3816,Female,Peru Coast
+Humboldt,44.3,18.9,188,3651,Female,Chile Coast
+Humboldt,43.7,17.6,209,4638,Male,Chile Coast
+Humboldt,51.7,18.8,188,4697,Female,Peru Coast
+Humboldt,45.3,18.2,186,3694,Male,Chile Coast
+Humboldt,44.6,18.4,200,3593,Male,Chile Coast
+Humboldt,44.1,20.2,184,4013,Male,Peru Coast
+Humboldt,50.6,17.6,182,4226,Male,Peru Coast
+Humboldt,45.0,19.3,204,3705,Male,Peru Coast
+Humboldt,47.8,19.0,184,4435,Female,Chile Coast
+Humboldt,44.7,19.0,182,4189,Female,Peru Coast
+Humboldt,45.1,20.3,181,4127,Female,Peru Coast
+Humboldt,46.6,19.9,197,4500,Female,Chile Coast
+Humboldt,49.8,20.4,189,4307,Male,Peru Coast
+Humboldt,50.4,21.0,206,4057,Male,Chile Coast
+Humboldt,44.0,19.0,202,4238,Female,Chile Coast
+Humboldt,46.8,20.4,190,4789,Female,Peru Coast
+Humboldt,46.1,18.3,193,4643,Female,Chile Coast
+Humboldt,43.3,17.8,208,3763,Female,Chile Coast
+Humboldt,47.7,19.3,194,4467,Female,Peru Coast
+Humboldt,44.3,19.2,191,4492,Male,Chile Coast
+King,92.8,32.9,309,12393,Female,Macquarie Island
+King,94.4,30.9,341,12428,Female,Crozet Islands
+King,108.5,34.8,328,11715,Male,Crozet Islands
+King,97.5,34.0,318,11435,Female,Crozet Islands
+King,101.1,34.2,339,11875,Female,Crozet Islands
+King,103.5,31.1,310,15370,Female,Macquarie Island
+King,95.0,31.3,300,15353,Female,Crozet Islands
+King,105.9,33.1,337,11760,Female,Macquarie Island
+King,99.2,31.8,304,13430,Female,Macquarie Island
+King,108.4,30.2,314,12037,Female,Macquarie Island
+King,94.8,34.5,323,13331,Female,Crozet Islands
+King,105.2,30.8,324,13149,Female,Crozet Islands
+King,101.9,35.0,338,12989,Male,Macquarie Island
+King,106.6,30.9,301,12022,Female,Crozet Islands
+King,96.8,32.6,330,15553,Male,Macquarie Island
+King,100.2,32.5,302,11174,Male,Macquarie Island
+King,101.0,32.2,341,11803,Male,Macquarie Island
+King,90.5,32.2,311,11248,Male,Macquarie Island
+King,104.5,30.6,330,12405,Male,Crozet Islands
+King,93.5,31.9,340,12960,Female,Crozet Islands
+King,105.0,30.6,338,12184,Male,Macquarie Island
+King,103.5,32.8,346,12936,Male,Macquarie Island
+King,91.3,30.1,341,13623,Female,Crozet Islands
+King,105.5,31.2,317,11150,Female,Macquarie Island
+King,109.2,33.3,346,12327,Female,Crozet Islands
+King,102.2,33.4,315,15240,Female,Macquarie Island
+King,108.9,34.4,336,12387,Male,Macquarie Island
+King,95.6,34.8,300,14580,Male,Macquarie Island
+King,104.1,33.1,349,12559,Female,Macquarie Island
+King,96.8,30.4,322,12305,Male,Crozet Islands
+King,96.9,34.2,346,11928,Female,Macquarie Island
+King,97.5,34.6,303,11461,Female,Macquarie Island
+King,93.3,33.0,307,15840,Male,Crozet Islands
+King,98.9,32.5,312,13354,Male,Crozet Islands
+King,103.2,33.8,337,13889,Female,Crozet Islands
+King,108.1,34.1,337,11278,Female,Macquarie Island
+King,90.1,31.1,333,13055,Female,Crozet Islands
+King,98.0,34.4,344,15545,Male,Macquarie Island
+King,96.3,33.5,313,11953,Female,Macquarie Island
+King,93.7,31.7,321,15154,Female,Crozet Islands
+King,92.4,33.7,326,12439,Male,Macquarie Island
+King,99.9,31.5,329,13169,Female,Crozet Islands
+King,93.3,30.6,327,15512,Male,Macquarie Island
+King,96.9,33.7,332,15657,Female,Crozet Islands
+King,106.4,32.8,332,15491,Female,Macquarie Island
+King,98.0,31.6,300,15132,Female,Macquarie Island
+King,106.0,30.5,328,13319,Male,Macquarie Island
+King,92.4,34.9,310,11336,Female,Crozet Islands
+King,101.9,33.7,301,14293,Male,Macquarie Island
+King,100.6,30.5,308,13839,Female,Crozet Islands
+King,95.9,34.7,340,15917,Male,Crozet Islands
+King,95.2,34.8,321,12737,Female,Crozet Islands
+King,91.0,30.3,334,13289,Female,Macquarie Island
+King,94.5,33.1,312,13888,Female,Crozet Islands
+King,97.2,34.1,341,13386,Male,Macquarie Island
+King,97.0,31.8,340,12640,Male,Crozet Islands
+King,94.2,30.4,323,13410,Female,Macquarie Island
+King,106.8,31.1,319,15042,Female,Crozet Islands
+King,106.5,31.9,322,12516,Male,Crozet Islands
+King,108.7,30.6,346,14419,Female,Macquarie Island
+King,100.6,30.2,323,13038,Male,Macquarie Island
+King,93.2,33.3,348,13810,Female,Macquarie Island
+King,104.3,30.3,320,11581,Female,Crozet Islands
+King,102.3,34.7,333,11384,Female,Crozet Islands
+King,97.1,32.8,320,15168,Male,Macquarie Island
+King,106.3,33.1,318,12276,Male,Crozet Islands
+King,92.1,31.8,320,14379,Female,Macquarie Island
+King,103.2,30.4,319,11908,Male,Macquarie Island
+King,93.1,34.1,302,13095,Male,Macquarie Island
+King,93.4,34.4,327,12156,Male,Crozet Islands
+King,100.0,33.7,347,12102,Female,Macquarie Island
+King,107.7,34.7,345,14177,Male,Crozet Islands
+King,102.6,32.0,337,13656,Male,Crozet Islands
+King,103.5,32.1,336,15122,Male,Crozet Islands
+King,92.9,34.2,327,15223,Male,Crozet Islands
+King,98.6,31.9,345,12255,Female,Macquarie Island
+King,106.9,32.4,325,12542,Female,Crozet Islands
+King,101.5,31.6,301,12359,Male,Crozet Islands
+King,90.1,34.9,348,12975,Female,Macquarie Island
+King,104.6,31.7,333,15027,Male,Macquarie Island
+King,108.9,32.0,339,12329,Male,Crozet Islands
+King,109.8,30.1,330,14297,Female,Macquarie Island
+King,103.8,30.6,346,11905,Male,Macquarie Island
+King,102.5,31.1,315,13732,Female,Macquarie Island
+King,98.3,30.8,308,13090,Female,Crozet Islands
+King,105.1,34.5,304,12965,Male,Macquarie Island
+King,92.0,30.1,333,14012,Female,Crozet Islands
+King,93.3,31.2,301,15174,Female,Crozet Islands
+King,109.5,30.7,311,15342,Female,Crozet Islands
+King,108.5,32.1,302,11196,Male,Macquarie Island
+King,101.5,32.0,301,13916,Female,Macquarie Island
+King,90.2,33.9,315,11201,Male,Crozet Islands
+King,101.8,32.0,348,13720,Male,Macquarie Island
+King,95.5,33.5,313,15521,Male,Macquarie Island
+King,97.5,32.7,302,13130,Female,Crozet Islands
+King,106.6,34.0,311,12130,Female,Crozet Islands
+King,106.3,34.7,304,13250,Male,Macquarie Island
+King,96.7,34.4,304,12055,Female,Crozet Islands
+King,105.0,30.3,324,13210,Male,Crozet Islands
+King,96.7,32.0,326,11806,Male,Macquarie Island
+Little,36.9,16.2,182,1076,Male,Otago Peninsula
+Little,31.8,14.1,170,1204,Male,Phillip Island
+Little,38.2,13.2,161,1195,Male,Phillip Island
+Little,38.4,13.8,179,1129,Male,Phillip Island
+Little,40.6,16.6,168,1114,Female,Phillip Island
+Little,34.9,14.0,180,1413,Male,Phillip Island
+Little,38.1,16.3,171,1078,Female,Otago Peninsula
+Little,38.9,14.4,180,1135,Male,Phillip Island
+Little,31.0,17.0,164,1494,Male,Phillip Island
+Little,41.7,16.2,179,1288,Female,Phillip Island
+Little,40.4,14.2,174,1309,Female,Otago Peninsula
+Little,34.9,14.7,169,1282,Male,Otago Peninsula
+Little,40.2,13.8,188,1344,Male,Phillip Island
+Little,39.9,15.2,183,1008,Female,Otago Peninsula
+Little,39.8,13.2,186,1495,Female,Phillip Island
+Little,33.5,13.8,182,1126,Male,Otago Peninsula
+Little,40.4,13.4,163,1489,Female,Phillip Island
+Little,38.1,16.4,169,1338,Female,Otago Peninsula
+Little,37.1,15.4,180,1287,Female,Otago Peninsula
+Little,35.1,14.1,183,1113,Female,Phillip Island
+Little,38.3,13.9,178,1373,Female,Otago Peninsula
+Little,32.6,13.2,163,1302,Male,Otago Peninsula
+Little,40.2,13.2,182,1170,Male,Phillip Island
+Little,35.7,16.7,169,1232,Female,Phillip Island
+Little,30.2,13.3,167,1013,Female,Phillip Island
+Little,37.6,14.7,176,1087,Female,Otago Peninsula
+Little,33.6,15.7,188,1025,Male,Otago Peninsula
+Little,40.7,15.3,176,1250,Male,Otago Peninsula
+Little,30.8,13.4,178,1170,Male,Otago Peninsula
+Little,41.0,14.6,164,1357,Male,Otago Peninsula
+Little,33.5,15.1,180,1450,Female,Phillip Island
+Little,39.5,15.7,180,1472,Male,Phillip Island
+Little,33.5,13.0,168,1108,Female,Otago Peninsula
+Little,37.9,15.5,177,1008,Male,Phillip Island
+Little,38.7,14.3,179,1278,Male,Phillip Island
+Little,34.1,13.5,162,1415,Female,Phillip Island
+Little,41.0,15.6,163,1201,Female,Otago Peninsula
+Little,38.7,16.1,163,1000,Male,Phillip Island
+Little,38.5,14.4,167,1006,Male,Phillip Island
+Little,36.5,16.4,188,1282,Female,Phillip Island
+Little,36.2,13.3,176,1189,Male,Otago Peninsula
+Little,37.3,14.6,167,1047,Male,Otago Peninsula
+Little,33.8,13.4,165,1493,Female,Otago Peninsula
+Little,35.3,15.1,186,1497,Female,Otago Peninsula
+Little,37.0,16.2,169,1152,Female,Otago Peninsula
+Little,34.8,15.7,180,1157,Female,Otago Peninsula
+Little,31.6,15.5,163,1289,Female,Phillip Island
+Little,38.3,15.8,182,1436,Female,Otago Peninsula
+Little,36.0,15.9,178,1093,Male,Otago Peninsula
+Little,30.3,14.1,173,1308,Female,Otago Peninsula
+Little,40.2,13.8,163,1481,Male,Phillip Island
+Little,31.3,14.9,177,1270,Male,Phillip Island
+Little,31.0,13.2,163,1292,Female,Otago Peninsula
+Little,36.5,13.9,179,1410,Female,Phillip Island
+Little,30.5,15.0,180,1126,Male,Otago Peninsula
+Little,33.7,15.5,186,1404,Male,Otago Peninsula
+Little,37.0,15.9,170,1320,Male,Otago Peninsula
+Little,35.6,13.8,181,1278,Female,Otago Peninsula
+Little,34.3,16.6,160,1157,Female,Otago Peninsula
+Little,30.7,16.1,181,1165,Female,Phillip Island
+Little,38.1,14.6,182,1227,Female,Phillip Island
+Little,34.9,16.7,167,1060,Male,Otago Peninsula
+Little,37.0,16.9,171,1031,Male,Phillip Island
+Little,34.1,15.0,164,1329,Male,Phillip Island
+Little,42.0,14.8,170,1200,Male,Phillip Island
+Little,31.4,16.5,172,1193,Female,Phillip Island
+Little,37.9,14.8,179,1030,Male,Phillip Island
+Little,39.8,16.8,179,1477,Male,Phillip Island
+Little,31.8,14.9,178,1290,Male,Otago Peninsula
+Little,34.8,14.4,163,1195,Female,Phillip Island
+Little,32.0,15.9,166,1029,Female,Otago Peninsula
+Little,36.6,15.4,186,1288,Male,Phillip Island
+Little,34.1,16.2,176,1039,Female,Phillip Island
+Little,36.8,16.6,171,1148,Male,Otago Peninsula
+Little,31.7,13.6,172,1297,Female,Phillip Island
+Little,31.0,16.8,182,1293,Female,Phillip Island
+Little,39.9,13.3,174,1315,Male,Phillip Island
+Little,39.9,16.1,168,1470,Male,Phillip Island
+Little,31.5,16.5,189,1088,Male,Otago Peninsula
+Little,38.7,13.2,172,1258,Female,Otago Peninsula
+Little,37.0,16.7,180,1240,Female,Phillip Island
+Little,39.7,16.8,160,1491,Female,Otago Peninsula
+Little,31.0,16.3,168,1066,Female,Phillip Island
+Little,35.3,15.6,171,1027,Male,Otago Peninsula
+Little,37.2,16.6,171,1108,Male,Phillip Island
+Little,35.3,13.2,184,1413,Male,Otago Peninsula
+Little,37.1,14.4,183,1277,Female,Otago Peninsula
+Little,39.9,15.5,183,1299,Female,Phillip Island
+Little,35.0,16.8,176,1302,Male,Phillip Island
+Little,32.6,15.5,177,1092,Male,Otago Peninsula
+Little,30.7,15.4,182,1261,Female,Otago Peninsula
+Little,32.7,15.7,162,1220,Male,Phillip Island
+Little,32.0,13.7,166,1193,Male,Phillip Island
+Little,30.6,14.6,175,1241,Female,Otago Peninsula
+Little,34.6,16.4,164,1252,Male,Phillip Island
+Little,30.7,13.3,177,1283,Female,Phillip Island
+Little,40.5,15.2,188,1024,Male,Otago Peninsula
+Little,31.2,13.2,165,1270,Male,Phillip Island
+Little,37.7,13.2,188,1421,Male,Otago Peninsula
+Little,33.6,13.3,165,1063,Male,Otago Peninsula
+Macaroni,51.2,24.1,214,4665,Male,South Georgia
+Macaroni,59.9,24.7,228,4385,Female,Marion Island
+Macaroni,53.8,24.2,211,4205,Female,South Georgia
+Macaroni,56.7,24.6,218,4836,Male,Marion Island
+Macaroni,54.2,22.1,216,4430,Male,South Georgia
+Macaroni,51.0,25.8,221,5147,Female,South Georgia
+Macaroni,53.2,23.6,214,4326,Male,Marion Island
+Macaroni,51.8,25.2,223,4911,Female,Marion Island
+Macaroni,54.8,25.7,211,4564,Male,Marion Island
+Macaroni,53.5,25.1,229,4512,Female,Marion Island
+Macaroni,58.7,25.3,214,4719,Male,Marion Island
+Macaroni,54.1,25.9,213,5238,Female,Marion Island
+Macaroni,53.3,24.9,218,4951,Male,Marion Island
+Macaroni,58.3,25.2,227,4277,Male,Marion Island
+Macaroni,56.9,22.6,218,4913,Male,South Georgia
+Macaroni,54.0,24.1,229,4375,Male,Marion Island
+Macaroni,56.8,23.6,212,4406,Male,Marion Island
+Macaroni,59.5,25.5,228,5488,Male,Marion Island
+Macaroni,52.1,23.4,223,4828,Female,Marion Island
+Macaroni,54.2,23.4,221,4948,Male,South Georgia
+Macaroni,51.6,23.9,221,4941,Male,Marion Island
+Macaroni,52.1,25.0,210,4661,Female,Marion Island
+Macaroni,57.8,24.3,215,5103,Female,South Georgia
+Macaroni,55.7,25.2,224,4993,Male,South Georgia
+Macaroni,54.9,22.5,215,4744,Male,Marion Island
+Macaroni,56.0,24.1,215,4208,Female,Marion Island
+Macaroni,55.0,23.1,224,4231,Male,South Georgia
+Macaroni,55.8,25.8,213,4813,Male,Marion Island
+Macaroni,50.9,24.5,221,4729,Male,Marion Island
+Macaroni,55.2,25.6,213,4229,Female,South Georgia
+Macaroni,58.6,24.3,227,4976,Female,Marion Island
+Macaroni,58.1,23.7,224,5386,Female,South Georgia
+Macaroni,55.7,22.7,215,4458,Male,South Georgia
+Macaroni,52.5,23.2,221,4964,Female,South Georgia
+Macaroni,54.3,24.5,211,4314,Male,Marion Island
+Macaroni,51.7,24.1,214,4568,Female,Marion Island
+Macaroni,54.0,25.2,210,5044,Female,South Georgia
+Macaroni,56.7,25.2,228,4226,Male,South Georgia
+Macaroni,51.5,25.5,219,4933,Female,Marion Island
+Macaroni,56.6,24.7,228,5496,Female,Marion Island
+Macaroni,57.2,23.1,227,4263,Female,South Georgia
+Macaroni,52.3,25.6,215,4486,Female,Marion Island
+Macaroni,51.4,25.4,220,5077,Male,Marion Island
+Macaroni,52.4,25.0,225,4606,Male,Marion Island
+Macaroni,54.1,22.8,229,5039,Male,South Georgia
+Macaroni,59.3,23.2,225,5195,Female,South Georgia
+Macaroni,56.9,25.9,217,4369,Female,Marion Island
+Macaroni,56.7,24.9,221,4468,Female,Marion Island
+Macaroni,55.0,23.2,218,5038,Female,Marion Island
+Macaroni,57.5,22.9,218,4549,Female,South Georgia
+Macaroni,52.0,25.1,228,4681,Female,Marion Island
+Macaroni,57.5,25.6,226,4437,Male,Marion Island
+Macaroni,59.6,23.5,216,4281,Female,South Georgia
+Macaroni,54.9,22.4,214,4612,Female,Marion Island
+Macaroni,58.1,25.5,216,5316,Female,Marion Island
+Macaroni,58.6,25.1,212,5097,Male,Marion Island
+Macaroni,59.5,24.7,216,4850,Female,Marion Island
+Macaroni,56.5,24.0,212,4605,Female,Marion Island
+Macaroni,58.0,25.4,212,5438,Male,South Georgia
+Macaroni,53.3,24.6,225,5255,Male,South Georgia
+Macaroni,59.5,23.3,227,4371,Female,South Georgia
+Macaroni,57.1,25.0,223,4528,Female,Marion Island
+Macaroni,58.7,22.7,211,5132,Male,Marion Island
+Macaroni,54.8,25.4,217,4418,Female,South Georgia
+Macaroni,58.4,24.2,213,5136,Female,South Georgia
+Macaroni,55.1,24.4,219,5277,Female,South Georgia
+Macaroni,58.3,24.8,212,5290,Female,Marion Island
+Macaroni,56.7,24.8,217,5343,Male,Marion Island
+Macaroni,57.3,22.5,218,5352,Female,Marion Island
+Macaroni,50.5,25.8,223,5020,Female,South Georgia
+Macaroni,52.7,23.0,228,4587,Female,South Georgia
+Macaroni,57.8,23.6,212,4213,Male,South Georgia
+Macaroni,55.4,25.9,217,4664,Female,South Georgia
+Macaroni,53.4,24.1,218,5343,Male,Marion Island
+Macaroni,55.1,24.0,212,5477,Female,Marion Island
+Macaroni,52.5,22.3,223,4973,Male,South Georgia
+Macaroni,54.2,23.7,225,4454,Male,Marion Island
+Macaroni,58.2,24.6,218,4795,Male,South Georgia
+Macaroni,52.6,25.0,220,4617,Female,Marion Island
+Macaroni,56.0,26.0,218,5396,Female,Marion Island
+Macaroni,53.5,22.2,214,4744,Male,Marion Island
+Macaroni,52.2,22.0,228,5297,Male,Marion Island
+Macaroni,57.4,22.7,212,4287,Male,Marion Island
+Macaroni,57.2,25.7,218,4354,Female,South Georgia
+Macaroni,55.1,23.4,217,5007,Male,South Georgia
+Macaroni,57.2,22.4,210,5492,Female,Marion Island
+Macaroni,52.3,22.2,213,4250,Female,Marion Island
+Macaroni,53.9,25.2,216,4777,Male,Marion Island
+Macaroni,56.8,24.0,227,5325,Female,Marion Island
+Macaroni,50.1,25.1,219,5485,Male,Marion Island
+Macaroni,54.8,25.9,225,4523,Female,Marion Island
+Macaroni,55.4,26.0,227,4326,Male,Marion Island
+Macaroni,57.1,23.4,210,4724,Male,South Georgia
+Macaroni,52.3,25.3,216,5275,Male,Marion Island
+Macaroni,50.0,23.2,214,4503,Male,South Georgia
+Macaroni,50.7,22.7,221,4578,Male,South Georgia
+Macaroni,54.2,23.5,227,5376,Male,Marion Island
+Macaroni,54.9,23.3,212,5439,Female,Marion Island
+Macaroni,50.6,23.2,215,4616,Male,Marion Island
+Macaroni,51.6,25.1,212,5025,Male,South Georgia
+Magellanic,43.6,18.3,217,3247,Female,Isla Magdalena
+Magellanic,52.7,20.2,192,4242,Male,Patagonia Mainland
+Magellanic,45.2,21.4,195,4110,Female,Isla Magdalena
+Magellanic,42.2,20.0,213,4215,Female,Patagonia Mainland
+Magellanic,53.8,21.3,216,3258,Male,Patagonia Mainland
+Magellanic,45.7,19.2,201,3511,Female,Patagonia Mainland
+Magellanic,49.1,18.6,210,3217,Male,Patagonia Mainland
+Magellanic,46.0,20.0,213,3961,Female,Isla Magdalena
+Magellanic,50.4,18.6,206,3113,Male,Isla Magdalena
+Magellanic,46.9,19.7,191,3356,Male,Isla Magdalena
+Magellanic,54.4,21.8,200,3056,Female,Isla Magdalena
+Magellanic,44.3,19.6,218,3183,Female,Isla Magdalena
+Magellanic,51.9,18.4,219,3496,Male,Isla Magdalena
+Magellanic,52.1,19.4,208,3249,Female,Isla Magdalena
+Magellanic,43.9,21.8,217,4153,Male,Isla Magdalena
+Magellanic,50.1,21.2,192,3435,Male,Patagonia Mainland
+Magellanic,46.1,20.5,200,3193,Female,Patagonia Mainland
+Magellanic,49.8,21.3,201,3171,Male,Isla Magdalena
+Magellanic,44.6,18.9,198,3835,Male,Patagonia Mainland
+Magellanic,49.8,20.8,200,4071,Female,Patagonia Mainland
+Magellanic,44.7,19.9,214,3234,Female,Isla Magdalena
+Magellanic,43.4,21.5,200,3889,Male,Isla Magdalena
+Magellanic,42.3,20.8,199,3072,Female,Patagonia Mainland
+Magellanic,49.9,19.0,201,3104,Female,Patagonia Mainland
+Magellanic,43.9,19.2,192,4184,Male,Isla Magdalena
+Magellanic,42.1,19.9,193,3399,Female,Patagonia Mainland
+Magellanic,54.0,18.6,218,3267,Male,Isla Magdalena
+Magellanic,51.6,20.2,216,3720,Female,Patagonia Mainland
+Magellanic,48.9,18.8,194,4191,Female,Patagonia Mainland
+Magellanic,46.3,19.5,212,3440,Female,Patagonia Mainland
+Magellanic,54.4,21.0,207,4145,Male,Isla Magdalena
+Magellanic,42.6,19.0,203,3295,Female,Isla Magdalena
+Magellanic,51.7,21.7,202,3444,Female,Isla Magdalena
+Magellanic,54.5,19.8,204,3457,Female,Isla Magdalena
+Magellanic,53.8,20.3,212,4055,Male,Patagonia Mainland
+Magellanic,46.4,19.7,215,3472,Male,Patagonia Mainland
+Magellanic,52.3,21.8,208,3964,Female,Patagonia Mainland
+Magellanic,52.5,21.4,201,3066,Female,Patagonia Mainland
+Magellanic,47.2,20.7,203,3973,Female,Patagonia Mainland
+Magellanic,46.6,20.5,195,3974,Female,Isla Magdalena
+Magellanic,49.1,18.8,198,3973,Male,Patagonia Mainland
+Magellanic,48.3,18.9,219,3929,Female,Isla Magdalena
+Magellanic,54.4,19.7,204,4167,Male,Isla Magdalena
+Magellanic,48.8,20.8,197,3580,Male,Isla Magdalena
+Magellanic,43.6,18.8,190,3051,Male,Patagonia Mainland
+Magellanic,54.7,19.0,209,4090,Female,Patagonia Mainland
+Magellanic,49.2,18.6,211,3780,Female,Isla Magdalena
+Magellanic,51.5,21.1,219,3745,Female,Patagonia Mainland
+Magellanic,46.4,20.6,192,4166,Female,Patagonia Mainland
+Magellanic,43.6,19.3,214,3776,Male,Patagonia Mainland
+Magellanic,47.1,19.9,215,3442,Female,Isla Magdalena
+Magellanic,53.3,18.4,213,4101,Male,Patagonia Mainland
+Magellanic,44.4,19.7,194,3918,Male,Patagonia Mainland
+Magellanic,49.0,20.5,195,3275,Male,Isla Magdalena
+Magellanic,42.5,19.3,206,4115,Female,Patagonia Mainland
+Magellanic,50.7,19.7,218,3935,Female,Isla Magdalena
+Magellanic,54.1,20.1,197,3068,Female,Isla Magdalena
+Magellanic,51.4,18.5,199,3692,Male,Patagonia Mainland
+Magellanic,49.3,20.4,194,3493,Female,Patagonia Mainland
+Magellanic,50.0,21.9,211,4199,Female,Patagonia Mainland
+Magellanic,51.9,20.4,195,3866,Male,Patagonia Mainland
+Magellanic,50.1,20.4,204,3687,Male,Isla Magdalena
+Magellanic,46.3,20.1,195,4046,Male,Isla Magdalena
+Magellanic,44.4,18.3,203,3855,Female,Patagonia Mainland
+Magellanic,47.7,19.1,206,3451,Female,Isla Magdalena
+Magellanic,54.1,21.7,205,3426,Female,Isla Magdalena
+Magellanic,51.6,18.1,204,3437,Male,Patagonia Mainland
+Magellanic,54.0,18.0,206,3962,Female,Isla Magdalena
+Magellanic,48.3,18.3,219,3673,Female,Isla Magdalena
+Magellanic,50.0,18.9,204,3557,Female,Isla Magdalena
+Magellanic,43.0,18.4,215,3311,Male,Patagonia Mainland
+Magellanic,44.5,20.0,213,3080,Female,Isla Magdalena
+Magellanic,49.5,18.5,191,3068,Male,Isla Magdalena
+Magellanic,52.8,18.5,191,3569,Male,Isla Magdalena
+Magellanic,53.0,19.0,202,3051,Male,Isla Magdalena
+Magellanic,47.8,20.3,207,3432,Female,Isla Magdalena
+Magellanic,46.1,18.4,201,3129,Female,Isla Magdalena
+Magellanic,52.0,21.9,219,4124,Male,Isla Magdalena
+Magellanic,49.8,20.8,198,3820,Female,Patagonia Mainland
+Magellanic,47.9,19.9,212,3366,Male,Patagonia Mainland
+Magellanic,46.1,21.7,191,3631,Female,Patagonia Mainland
+Magellanic,53.9,20.4,206,3324,Male,Patagonia Mainland
+Magellanic,46.5,21.4,206,3669,Female,Isla Magdalena
+Magellanic,43.3,18.1,218,3490,Male,Isla Magdalena
+Magellanic,49.8,18.3,210,4212,Male,Patagonia Mainland
+Magellanic,49.5,18.5,207,3996,Female,Patagonia Mainland
+Magellanic,47.3,21.5,209,4169,Female,Patagonia Mainland
+Magellanic,50.1,18.5,199,3262,Female,Isla Magdalena
+Magellanic,53.8,21.0,210,3391,Male,Isla Magdalena
+Magellanic,44.4,21.0,204,3293,Male,Patagonia Mainland
+Magellanic,50.0,18.2,199,3609,Female,Isla Magdalena
+Magellanic,43.9,21.9,196,3169,Male,Isla Magdalena
+Magellanic,44.6,21.1,202,3735,Male,Patagonia Mainland
+Magellanic,42.3,18.1,203,4061,Male,Patagonia Mainland
+Magellanic,53.5,18.3,206,4187,Female,Patagonia Mainland
+Magellanic,47.0,21.3,194,4216,Male,Patagonia Mainland
+Magellanic,51.8,21.8,210,3472,Female,Patagonia Mainland
+Magellanic,54.2,19.1,199,3911,Male,Isla Magdalena
+Magellanic,51.9,21.7,196,4037,Male,Isla Magdalena
+Magellanic,51.6,18.3,201,3367,Male,Isla Magdalena
+Northern Rockhopper,49.0,22.9,212,4332,Male,Tristan da Cunha
+Northern Rockhopper,57.7,20.5,216,3964,Female,Tristan da Cunha
+Northern Rockhopper,56.3,19.7,218,3684,Male,Tristan da Cunha
+Northern Rockhopper,49.2,22.0,207,4190,Female,Gough Island
+Northern Rockhopper,50.8,22.0,204,3475,Female,Tristan da Cunha
+Northern Rockhopper,48.9,20.9,203,3861,Female,Tristan da Cunha
+Northern Rockhopper,50.2,19.2,211,4549,Male,Tristan da Cunha
+Northern Rockhopper,47.0,21.4,213,3945,Male,Tristan da Cunha
+Northern Rockhopper,54.1,20.6,210,3409,Female,Gough Island
+Northern Rockhopper,54.0,21.6,200,3878,Male,Tristan da Cunha
+Northern Rockhopper,57.7,20.7,210,4582,Female,Gough Island
+Northern Rockhopper,54.3,21.3,215,4523,Male,Tristan da Cunha
+Northern Rockhopper,50.9,20.9,207,4656,Male,Tristan da Cunha
+Northern Rockhopper,54.1,19.3,217,4024,Male,Gough Island
+Northern Rockhopper,45.9,21.2,208,4541,Female,Gough Island
+Northern Rockhopper,47.7,22.3,211,3470,Female,Tristan da Cunha
+Northern Rockhopper,57.6,21.1,205,4010,Male,Gough Island
+Northern Rockhopper,56.2,20.2,203,3567,Male,Tristan da Cunha
+Northern Rockhopper,48.9,22.1,209,3695,Female,Tristan da Cunha
+Northern Rockhopper,47.2,20.3,218,3845,Female,Tristan da Cunha
+Northern Rockhopper,57.8,20.9,203,4558,Male,Gough Island
+Northern Rockhopper,51.0,21.8,219,3465,Female,Tristan da Cunha
+Northern Rockhopper,46.3,21.9,205,3639,Male,Gough Island
+Northern Rockhopper,45.5,19.1,215,3574,Female,Tristan da Cunha
+Northern Rockhopper,51.1,21.4,208,3435,Male,Gough Island
+Northern Rockhopper,55.2,19.0,215,4561,Male,Tristan da Cunha
+Northern Rockhopper,50.6,21.1,209,3905,Female,Gough Island
+Northern Rockhopper,56.5,22.6,206,4199,Male,Gough Island
+Northern Rockhopper,57.0,22.8,210,3988,Female,Gough Island
+Northern Rockhopper,48.6,22.8,202,4153,Male,Gough Island
+Northern Rockhopper,48.7,20.1,208,4698,Male,Tristan da Cunha
+Northern Rockhopper,45.7,21.3,201,3600,Male,Tristan da Cunha
+Northern Rockhopper,50.7,21.0,205,3811,Female,Tristan da Cunha
+Northern Rockhopper,46.1,20.2,219,4628,Male,Tristan da Cunha
+Northern Rockhopper,49.4,21.3,218,3408,Female,Gough Island
+Northern Rockhopper,55.5,22.8,201,3609,Female,Gough Island
+Northern Rockhopper,57.5,21.2,200,3734,Female,Tristan da Cunha
+Northern Rockhopper,50.8,21.8,214,4694,Male,Gough Island
+Northern Rockhopper,48.7,21.2,210,3927,Male,Gough Island
+Northern Rockhopper,47.2,22.9,217,4047,Male,Tristan da Cunha
+Northern Rockhopper,52.8,19.9,210,4303,Male,Gough Island
+Northern Rockhopper,51.7,23.0,212,3882,Female,Tristan da Cunha
+Northern Rockhopper,55.0,19.7,207,3851,Female,Gough Island
+Northern Rockhopper,50.6,22.1,209,4432,Male,Tristan da Cunha
+Northern Rockhopper,52.5,20.4,216,3709,Male,Tristan da Cunha
+Northern Rockhopper,47.9,21.0,205,3411,Female,Tristan da Cunha
+Northern Rockhopper,53.4,21.0,208,4657,Female,Tristan da Cunha
+Northern Rockhopper,52.4,22.5,202,4139,Female,Tristan da Cunha
+Northern Rockhopper,56.3,21.3,214,3883,Male,Tristan da Cunha
+Northern Rockhopper,46.2,20.8,207,4527,Male,Tristan da Cunha
+Northern Rockhopper,48.2,22.9,219,3721,Male,Gough Island
+Northern Rockhopper,49.5,22.6,219,3976,Female,Gough Island
+Northern Rockhopper,49.2,21.1,213,3755,Male,Gough Island
+Northern Rockhopper,54.6,19.2,200,3902,Male,Gough Island
+Northern Rockhopper,49.6,20.3,209,3816,Male,Tristan da Cunha
+Northern Rockhopper,47.5,20.2,219,3934,Female,Gough Island
+Northern Rockhopper,50.8,21.3,219,3714,Female,Tristan da Cunha
+Northern Rockhopper,53.9,21.9,212,3515,Female,Tristan da Cunha
+Northern Rockhopper,53.8,19.3,211,4361,Female,Gough Island
+Northern Rockhopper,47.7,22.4,200,4496,Female,Tristan da Cunha
+Northern Rockhopper,51.0,19.9,202,4639,Female,Tristan da Cunha
+Northern Rockhopper,45.9,19.8,206,4206,Female,Tristan da Cunha
+Northern Rockhopper,52.1,19.5,205,3710,Female,Tristan da Cunha
+Northern Rockhopper,47.8,20.6,214,3682,Male,Tristan da Cunha
+Northern Rockhopper,49.8,20.6,219,4641,Male,Tristan da Cunha
+Northern Rockhopper,55.4,20.0,201,3811,Male,Tristan da Cunha
+Northern Rockhopper,48.5,21.0,215,4515,Male,Gough Island
+Northern Rockhopper,56.0,20.4,213,3806,Female,Gough Island
+Northern Rockhopper,45.8,21.8,200,3931,Male,Tristan da Cunha
+Northern Rockhopper,49.3,21.8,215,3795,Male,Gough Island
+Northern Rockhopper,55.6,20.2,208,4345,Male,Gough Island
+Northern Rockhopper,54.0,22.9,204,4261,Male,Gough Island
+Northern Rockhopper,52.9,22.7,203,4377,Female,Gough Island
+Northern Rockhopper,52.4,20.1,209,3833,Male,Gough Island
+Northern Rockhopper,52.5,22.6,211,4221,Male,Tristan da Cunha
+Northern Rockhopper,51.7,19.2,204,4039,Male,Tristan da Cunha
+Northern Rockhopper,49.0,19.7,210,3819,Male,Gough Island
+Northern Rockhopper,48.4,20.9,202,4606,Male,Gough Island
+Northern Rockhopper,56.3,21.8,202,4408,Female,Gough Island
+Northern Rockhopper,55.5,22.1,202,4237,Female,Tristan da Cunha
+Northern Rockhopper,55.8,21.3,212,3995,Female,Tristan da Cunha
+Northern Rockhopper,51.9,19.1,212,3505,Female,Tristan da Cunha
+Northern Rockhopper,50.7,20.2,210,3573,Female,Gough Island
+Northern Rockhopper,54.0,22.2,203,3535,Male,Gough Island
+Northern Rockhopper,46.9,22.5,210,4007,Female,Gough Island
+Northern Rockhopper,46.4,21.6,217,4476,Male,Tristan da Cunha
+Northern Rockhopper,53.1,19.3,202,3464,Male,Tristan da Cunha
+Northern Rockhopper,48.3,19.5,205,3900,Female,Tristan da Cunha
+Northern Rockhopper,57.3,21.4,216,4323,Male,Gough Island
+Northern Rockhopper,46.5,21.9,205,4230,Male,Gough Island
+Northern Rockhopper,49.4,23.0,205,3762,Male,Gough Island
+Northern Rockhopper,57.1,19.1,213,4342,Female,Tristan da Cunha
+Northern Rockhopper,55.9,22.9,219,3484,Male,Tristan da Cunha
+Northern Rockhopper,55.7,21.6,212,3566,Female,Gough Island
+Northern Rockhopper,53.5,22.9,218,3970,Male,Tristan da Cunha
+Northern Rockhopper,45.5,20.4,216,4311,Female,Tristan da Cunha
+Northern Rockhopper,51.0,19.2,208,4009,Male,Tristan da Cunha
+Northern Rockhopper,57.1,21.6,206,4082,Female,Gough Island
+Northern Rockhopper,45.9,22.9,207,4021,Female,Tristan da Cunha
+Northern Rockhopper,49.6,21.7,213,4329,Male,Tristan da Cunha
+Rockhopper,45.5,18.3,183,3589,Female,Falkland Islands
+Rockhopper,42.5,19.4,206,3801,Male,Falkland Islands
+Rockhopper,47.8,18.8,182,3603,Male,Falkland Islands
+Rockhopper,52.7,18.0,192,3754,Female,Falkland Islands
+Rockhopper,53.4,18.0,196,3173,Female,Falkland Islands
+Rockhopper,43.3,20.6,204,3684,Female,Falkland Islands
+Rockhopper,42.6,20.4,193,3308,Female,Falkland Islands
+Rockhopper,49.1,17.4,202,3524,Male,Falkland Islands
+Rockhopper,44.4,17.8,185,3051,Male,Falkland Islands
+Rockhopper,49.6,20.4,180,3044,Male,Falkland Islands
+Rockhopper,49.4,20.3,189,3314,Male,Falkland Islands
+Rockhopper,49.8,18.1,180,3661,Female,Falkland Islands
+Rockhopper,50.1,19.3,202,3607,Female,Falkland Islands
+Rockhopper,44.7,18.4,183,3116,Male,Falkland Islands
+Rockhopper,50.8,20.4,208,3565,Male,Falkland Islands
+Rockhopper,44.4,17.4,204,3520,Female,Falkland Islands
+Rockhopper,50.0,20.1,201,3751,Female,Falkland Islands
+Rockhopper,42.7,20.0,205,3257,Male,Falkland Islands
+Rockhopper,50.3,18.3,208,3030,Female,Falkland Islands
+Rockhopper,49.5,17.7,201,3158,Male,Falkland Islands
+Rockhopper,45.1,19.0,207,3190,Male,Falkland Islands
+Rockhopper,43.9,20.0,195,3820,Male,Falkland Islands
+Rockhopper,43.9,19.6,186,3141,Female,Falkland Islands
+Rockhopper,50.9,19.4,202,3278,Female,Falkland Islands
+Rockhopper,47.8,18.6,209,3263,Male,Falkland Islands
+Rockhopper,45.8,18.4,196,3227,Female,Falkland Islands
+Rockhopper,53.9,18.1,206,3093,Male,Falkland Islands
+Rockhopper,50.5,20.6,185,3871,Female,Falkland Islands
+Rockhopper,47.9,20.8,200,3271,Male,Falkland Islands
+Rockhopper,44.4,18.2,182,3129,Male,Falkland Islands
+Rockhopper,43.4,18.7,203,3127,Male,Falkland Islands
+Rockhopper,43.7,19.6,185,3087,Male,Falkland Islands
+Rockhopper,44.2,20.7,204,3318,Female,Falkland Islands
+Rockhopper,50.5,19.1,200,3614,Female,Falkland Islands
+Rockhopper,50.2,18.1,181,3410,Male,Falkland Islands
+Rockhopper,53.6,19.3,204,3892,Male,Falkland Islands
+Rockhopper,44.1,19.8,200,3881,Male,Falkland Islands
+Rockhopper,54.8,19.7,187,3718,Female,Falkland Islands
+Rockhopper,43.4,20.1,207,3344,Male,Falkland Islands
+Rockhopper,50.2,18.7,193,3279,Male,Falkland Islands
+Rockhopper,51.9,20.7,208,3157,Female,Falkland Islands
+Rockhopper,53.4,19.9,187,3060,Female,Falkland Islands
+Rockhopper,45.5,20.6,198,3648,Female,Falkland Islands
+Rockhopper,45.3,19.9,180,3337,Male,Falkland Islands
+Rockhopper,50.1,17.6,204,3211,Male,Falkland Islands
+Rockhopper,50.5,18.6,197,3096,Female,Falkland Islands
+Rockhopper,42.2,20.6,188,3737,Female,Falkland Islands
+Rockhopper,55.0,17.8,187,3596,Male,Falkland Islands
+Rockhopper,54.6,20.7,195,3715,Female,Falkland Islands
+Rockhopper,43.8,20.9,208,3147,Female,Falkland Islands
+Rockhopper,45.9,17.4,188,3734,Male,Falkland Islands
+Rockhopper,46.9,17.4,190,3883,Female,Falkland Islands
+Rockhopper,50.2,18.7,184,3887,Male,Falkland Islands
+Rockhopper,52.7,18.1,182,3050,Male,Falkland Islands
+Rockhopper,43.6,19.3,207,3447,Male,Falkland Islands
+Rockhopper,53.0,18.8,201,3658,Female,Falkland Islands
+Rockhopper,44.3,18.4,199,3063,Female,Falkland Islands
+Rockhopper,46.7,19.1,209,3427,Female,Falkland Islands
+Rockhopper,52.6,18.7,203,3535,Female,Falkland Islands
+Rockhopper,53.5,18.6,198,3567,Male,Falkland Islands
+Rockhopper,47.4,17.6,182,3015,Male,Falkland Islands
+Rockhopper,53.4,17.9,186,3662,Female,Falkland Islands
+Rockhopper,46.2,19.0,184,3863,Female,Falkland Islands
+Rockhopper,53.1,20.5,192,3686,Male,Falkland Islands
+Rockhopper,43.9,17.0,180,3527,Male,Falkland Islands
+Rockhopper,47.9,19.1,180,3380,Male,Falkland Islands
+Rockhopper,51.3,18.8,201,3209,Male,Falkland Islands
+Rockhopper,52.6,19.4,186,3213,Female,Falkland Islands
+Rockhopper,50.2,20.3,192,3232,Male,Falkland Islands
+Rockhopper,53.3,19.7,193,3439,Male,Falkland Islands
+Rockhopper,44.7,19.5,190,3896,Female,Falkland Islands
+Rockhopper,48.2,18.9,196,3825,Female,Falkland Islands
+Rockhopper,52.4,18.8,201,3527,Male,Falkland Islands
+Rockhopper,48.4,17.8,193,3221,Female,Falkland Islands
+Rockhopper,53.9,18.3,208,3479,Female,Falkland Islands
+Rockhopper,50.2,19.2,183,3338,Male,Falkland Islands
+Rockhopper,43.3,19.5,193,3700,Male,Falkland Islands
+Rockhopper,44.9,17.7,192,3833,Male,Falkland Islands
+Rockhopper,51.2,18.7,195,3075,Male,Falkland Islands
+Rockhopper,54.8,19.7,188,3527,Male,Falkland Islands
+Rockhopper,43.4,20.9,185,3583,Female,Falkland Islands
+Rockhopper,45.2,19.9,203,3606,Female,Falkland Islands
+Rockhopper,50.0,20.6,182,3297,Male,Falkland Islands
+Rockhopper,45.2,21.0,191,3659,Male,Falkland Islands
+Rockhopper,50.9,17.8,187,3253,Female,Falkland Islands
+Rockhopper,47.3,17.9,180,3791,Female,Falkland Islands
+Rockhopper,54.6,18.4,190,3006,Male,Falkland Islands
+Rockhopper,50.8,20.3,184,3143,Female,Falkland Islands
+Rockhopper,52.3,19.5,181,3560,Male,Falkland Islands
+Rockhopper,46.0,18.5,203,3729,Female,Falkland Islands
+Rockhopper,47.2,20.8,192,3694,Female,Falkland Islands
+Rockhopper,48.3,20.6,207,3078,Female,Falkland Islands
+Rockhopper,54.2,20.3,203,3180,Male,Falkland Islands
+Rockhopper,52.5,20.4,188,3857,Female,Falkland Islands
+Rockhopper,42.6,17.6,196,3518,Male,Falkland Islands
+Rockhopper,50.4,17.1,208,3040,Male,Falkland Islands
+Rockhopper,43.9,17.1,197,3839,Male,Falkland Islands
+Rockhopper,50.7,20.3,180,3487,Female,Falkland Islands
+Rockhopper,48.0,19.0,182,3615,Male,Falkland Islands
+Rockhopper,48.5,20.1,194,3134,Male,Falkland Islands
+Royal,57.8,20.9,226,4735,Male,Macquarie Island
+Royal,51.9,24.8,215,4087,Female,Macquarie Island
+Royal,57.5,21.3,224,4981,Male,Macquarie Island
+Royal,61.7,22.5,213,4904,Female,Macquarie Island
+Royal,51.6,22.7,216,4107,Male,Macquarie Island
+Royal,55.0,24.3,225,4119,Male,Macquarie Island
+Royal,51.1,21.3,226,4154,Male,Macquarie Island
+Royal,58.6,20.5,218,4427,Female,Macquarie Island
+Royal,59.5,21.2,219,4282,Male,Macquarie Island
+Royal,58.6,24.4,203,5039,Female,Macquarie Island
+Royal,57.1,20.6,212,4193,Female,Macquarie Island
+Royal,58.4,23.8,203,4607,Female,Macquarie Island
+Royal,59.8,24.7,215,5140,Female,Macquarie Island
+Royal,56.4,22.0,225,4591,Female,Macquarie Island
+Royal,55.7,22.5,225,4998,Female,Macquarie Island
+Royal,54.8,21.7,214,4687,Male,Macquarie Island
+Royal,52.9,24.0,214,4400,Male,Macquarie Island
+Royal,51.3,21.2,228,4366,Female,Macquarie Island
+Royal,52.0,22.3,209,4042,Female,Macquarie Island
+Royal,53.9,22.7,216,4427,Male,Macquarie Island
+Royal,55.4,24.8,211,4309,Female,Macquarie Island
+Royal,52.9,22.3,222,4247,Female,Macquarie Island
+Royal,58.5,20.1,212,4931,Male,Macquarie Island
+Royal,54.1,22.8,206,4890,Female,Macquarie Island
+Royal,50.6,24.3,205,5049,Male,Macquarie Island
+Royal,54.2,23.6,209,5087,Male,Macquarie Island
+Royal,51.5,20.9,214,4098,Male,Macquarie Island
+Royal,52.4,24.7,229,4451,Male,Macquarie Island
+Royal,61.1,22.7,208,4842,Male,Macquarie Island
+Royal,57.9,24.9,207,4806,Female,Macquarie Island
+Royal,50.6,20.6,200,5199,Female,Macquarie Island
+Royal,59.6,23.9,215,4360,Male,Macquarie Island
+Royal,51.8,21.4,211,4907,Male,Macquarie Island
+Royal,56.5,20.4,200,4122,Female,Macquarie Island
+Royal,54.9,24.7,219,4962,Male,Macquarie Island
+Royal,55.6,21.8,203,5051,Male,Macquarie Island
+Royal,59.4,20.8,215,4584,Male,Macquarie Island
+Royal,57.5,24.7,217,4648,Female,Macquarie Island
+Royal,50.6,20.3,205,4038,Male,Macquarie Island
+Royal,58.9,23.6,204,5003,Male,Macquarie Island
+Royal,51.9,21.5,207,4446,Female,Macquarie Island
+Royal,53.1,22.4,212,5183,Female,Macquarie Island
+Royal,50.7,20.7,201,4751,Female,Macquarie Island
+Royal,50.7,24.2,215,4632,Female,Macquarie Island
+Royal,56.7,20.9,205,4382,Female,Macquarie Island
+Royal,57.1,21.1,203,5164,Female,Macquarie Island
+Royal,50.3,24.0,223,4356,Female,Macquarie Island
+Royal,51.6,20.7,220,4771,Female,Macquarie Island
+Royal,59.4,24.7,220,4187,Female,Macquarie Island
+Royal,52.9,24.2,206,4087,Female,Macquarie Island
+Royal,58.4,22.0,227,4780,Female,Macquarie Island
+Royal,51.1,24.7,207,4404,Male,Macquarie Island
+Royal,54.8,20.3,214,4147,Male,Macquarie Island
+Royal,54.8,21.8,223,4963,Male,Macquarie Island
+Royal,51.8,21.8,211,4181,Female,Macquarie Island
+Royal,59.6,23.5,205,4440,Male,Macquarie Island
+Royal,51.3,23.1,203,5183,Female,Macquarie Island
+Royal,59.4,22.0,217,5093,Female,Macquarie Island
+Royal,56.6,20.9,211,5011,Female,Macquarie Island
+Royal,57.7,23.3,226,5072,Male,Macquarie Island
+Royal,61.0,20.5,216,4888,Male,Macquarie Island
+Royal,59.1,23.0,205,4956,Male,Macquarie Island
+Royal,58.6,20.4,213,4208,Male,Macquarie Island
+Royal,54.0,20.1,212,4659,Male,Macquarie Island
+Royal,57.4,23.3,225,4258,Male,Macquarie Island
+Royal,51.4,24.3,204,5169,Female,Macquarie Island
+Royal,60.1,22.5,229,4116,Female,Macquarie Island
+Royal,53.6,23.2,210,5114,Male,Macquarie Island
+Royal,50.8,22.7,217,4783,Female,Macquarie Island
+Royal,53.1,21.8,225,4233,Male,Macquarie Island
+Royal,59.9,22.8,222,4856,Female,Macquarie Island
+Royal,52.5,22.8,226,4518,Female,Macquarie Island
+Royal,61.6,22.3,204,4467,Male,Macquarie Island
+Royal,61.4,21.6,226,5057,Male,Macquarie Island
+Royal,54.2,20.4,221,4373,Male,Macquarie Island
+Royal,59.4,22.2,214,4933,Male,Macquarie Island
+Royal,54.6,22.2,211,4440,Male,Macquarie Island
+Royal,56.3,24.0,210,4629,Female,Macquarie Island
+Royal,58.0,21.3,208,5120,Female,Macquarie Island
+Royal,58.7,22.9,219,4035,Female,Macquarie Island
+Royal,57.4,22.5,216,4431,Male,Macquarie Island
+Royal,51.0,21.0,228,4490,Female,Macquarie Island
+Royal,55.6,20.3,201,4860,Male,Macquarie Island
+Royal,56.5,22.5,207,4893,Male,Macquarie Island
+Royal,52.0,20.9,213,4343,Female,Macquarie Island
+Royal,53.0,23.2,219,4989,Male,Macquarie Island
+Royal,55.0,20.4,208,5176,Female,Macquarie Island
+Royal,57.2,23.5,200,4621,Male,Macquarie Island
+Royal,50.5,22.8,227,5162,Female,Macquarie Island
+Royal,56.5,22.3,228,4808,Female,Macquarie Island
+Royal,50.8,22.3,207,4563,Male,Macquarie Island
+Royal,55.5,22.9,210,4197,Male,Macquarie Island
+Royal,56.0,24.2,219,4406,Female,Macquarie Island
+Royal,61.2,24.6,206,4047,Female,Macquarie Island
+Royal,58.9,24.1,229,5067,Male,Macquarie Island
+Royal,57.2,22.7,200,4295,Female,Macquarie Island
+Royal,55.5,23.1,216,4891,Female,Macquarie Island
+Royal,53.4,22.8,202,4496,Female,Macquarie Island
+Royal,59.0,23.5,229,4333,Male,Macquarie Island
+Royal,56.0,21.6,213,5028,Female,Macquarie Island
+Snares,51.8,21.5,196,4135,Male,Snares Islands
+Snares,45.6,21.6,199,3408,Male,Snares Islands
+Snares,50.1,21.8,191,3457,Male,Snares Islands
+Snares,53.6,19.6,195,3552,Male,Snares Islands
+Snares,48.9,21.7,212,3656,Female,Snares Islands
+Snares,54.9,19.9,191,3340,Female,Snares Islands
+Snares,49.4,18.6,218,3996,Female,Snares Islands
+Snares,47.7,20.4,211,4223,Female,Snares Islands
+Snares,53.8,20.1,213,3730,Male,Snares Islands
+Snares,50.5,18.5,193,3688,Male,Snares Islands
+Snares,47.7,18.1,211,3042,Female,Snares Islands
+Snares,51.0,20.2,219,3629,Male,Snares Islands
+Snares,45.6,20.2,215,4295,Female,Snares Islands
+Snares,49.3,19.3,217,3248,Male,Snares Islands
+Snares,51.2,19.6,191,3451,Male,Snares Islands
+Snares,47.7,20.7,218,3348,Male,Snares Islands
+Snares,53.1,18.2,206,3091,Male,Snares Islands
+Snares,54.3,21.1,209,4071,Male,Snares Islands
+Snares,51.5,21.9,211,4202,Male,Snares Islands
+Snares,50.2,18.5,205,3164,Female,Snares Islands
+Snares,50.9,19.9,208,3013,Male,Snares Islands
+Snares,46.9,20.0,218,3498,Female,Snares Islands
+Snares,49.2,20.9,208,3388,Male,Snares Islands
+Snares,49.1,18.9,218,3169,Male,Snares Islands
+Snares,48.7,18.1,196,4014,Female,Snares Islands
+Snares,47.0,18.3,204,3012,Female,Snares Islands
+Snares,45.8,21.2,213,4189,Female,Snares Islands
+Snares,53.5,20.7,191,4017,Female,Snares Islands
+Snares,53.5,21.2,205,3302,Female,Snares Islands
+Snares,53.5,20.9,219,3202,Female,Snares Islands
+Snares,47.3,18.8,213,3242,Male,Snares Islands
+Snares,45.7,22.0,190,4085,Female,Snares Islands
+Snares,48.7,21.4,206,4172,Male,Snares Islands
+Snares,54.3,18.0,192,3325,Male,Snares Islands
+Snares,51.7,21.6,203,3789,Female,Snares Islands
+Snares,46.9,21.2,219,3349,Female,Snares Islands
+Snares,49.9,18.3,206,3653,Female,Snares Islands
+Snares,46.4,19.8,200,3678,Male,Snares Islands
+Snares,50.9,18.0,212,3926,Male,Snares Islands
+Snares,48.7,18.2,212,4241,Female,Snares Islands
+Snares,47.4,19.3,195,3750,Male,Snares Islands
+Snares,46.5,19.4,210,3728,Female,Snares Islands
+Snares,48.9,19.7,206,3007,Female,Snares Islands
+Snares,45.8,21.5,192,3918,Female,Snares Islands
+Snares,54.2,19.1,201,3739,Male,Snares Islands
+Snares,53.8,21.8,212,3112,Male,Snares Islands
+Snares,51.7,19.6,204,3063,Female,Snares Islands
+Snares,46.9,21.2,203,3392,Male,Snares Islands
+Snares,48.8,21.4,212,3354,Female,Snares Islands
+Snares,46.2,19.0,217,3756,Female,Snares Islands
+Snares,50.3,20.4,200,4049,Female,Snares Islands
+Snares,50.2,18.5,193,3697,Female,Snares Islands
+Snares,54.4,19.2,216,3993,Male,Snares Islands
+Snares,47.5,18.1,193,3947,Male,Snares Islands
+Snares,47.0,19.5,205,3943,Female,Snares Islands
+Snares,46.1,19.6,204,3703,Female,Snares Islands
+Snares,53.2,18.7,214,3900,Female,Snares Islands
+Snares,50.6,20.8,202,3179,Male,Snares Islands
+Snares,51.7,20.1,209,3439,Male,Snares Islands
+Snares,54.1,20.3,192,3584,Female,Snares Islands
+Snares,52.6,21.2,204,4163,Male,Snares Islands
+Snares,47.7,19.6,216,4165,Female,Snares Islands
+Snares,51.9,21.4,192,4124,Male,Snares Islands
+Snares,48.2,18.7,197,3543,Male,Snares Islands
+Snares,47.5,19.3,194,3385,Female,Snares Islands
+Snares,50.7,19.8,200,3970,Female,Snares Islands
+Snares,53.9,21.0,199,3967,Female,Snares Islands
+Snares,46.5,18.5,200,4050,Male,Snares Islands
+Snares,47.5,18.3,193,4116,Female,Snares Islands
+Snares,51.3,19.0,206,3685,Female,Snares Islands
+Snares,51.6,18.9,215,3402,Male,Snares Islands
+Snares,51.9,18.1,201,3457,Female,Snares Islands
+Snares,50.4,18.3,213,3283,Male,Snares Islands
+Snares,51.8,21.2,206,3963,Female,Snares Islands
+Snares,51.6,19.4,214,3383,Male,Snares Islands
+Snares,50.7,21.0,201,3393,Female,Snares Islands
+Snares,49.6,21.3,217,3708,Female,Snares Islands
+Snares,51.6,21.6,192,3301,Female,Snares Islands
+Snares,52.1,21.3,215,3539,Male,Snares Islands
+Snares,45.9,19.8,196,3378,Female,Snares Islands
+Snares,52.7,18.3,214,3555,Female,Snares Islands
+Snares,51.0,18.4,200,3116,Male,Snares Islands
+Snares,54.6,21.2,203,3290,Male,Snares Islands
+Snares,54.3,19.4,194,3732,Female,Snares Islands
+Snares,54.4,18.0,197,4219,Male,Snares Islands
+Snares,46.7,18.5,207,4120,Female,Snares Islands
+Snares,49.8,22.0,210,3096,Male,Snares Islands
+Snares,54.9,19.6,198,3725,Male,Snares Islands
+Snares,48.0,18.3,190,3584,Female,Snares Islands
+Snares,53.4,20.3,219,3372,Female,Snares Islands
+Snares,47.8,18.6,194,3370,Male,Snares Islands
+Snares,52.9,21.6,219,3301,Female,Snares Islands
+Snares,53.8,19.3,193,4131,Male,Snares Islands
+Snares,51.4,18.7,202,3373,Female,Snares Islands
+Snares,52.4,19.8,219,3071,Male,Snares Islands
+Snares,48.6,19.9,205,3410,Male,Snares Islands
+Snares,52.3,21.5,218,4046,Male,Snares Islands
+Snares,53.5,20.2,214,3394,Male,Snares Islands
+Snares,49.0,19.3,204,3371,Male,Snares Islands
+Snares,54.6,19.3,192,3684,Female,Snares Islands
+Southern Rockhopper,43.7,17.4,186,3417,Male,Falkland Islands
+Southern Rockhopper,48.2,20.2,202,3383,Male,Falkland Islands
+Southern Rockhopper,47.0,18.3,203,3046,Male,Chile Coast
+Southern Rockhopper,43.2,20.2,194,3117,Female,Chile Coast
+Southern Rockhopper,45.8,20.7,205,3638,Male,Chile Coast
+Southern Rockhopper,48.8,19.1,209,3869,Female,Falkland Islands
+Southern Rockhopper,45.6,20.2,185,3192,Male,Falkland Islands
+Southern Rockhopper,51.1,18.6,207,3080,Female,Chile Coast
+Southern Rockhopper,49.1,20.7,207,3140,Male,Chile Coast
+Southern Rockhopper,47.4,19.5,184,3871,Male,Chile Coast
+Southern Rockhopper,54.0,17.7,183,3076,Male,Falkland Islands
+Southern Rockhopper,53.9,17.8,192,3403,Female,Falkland Islands
+Southern Rockhopper,50.2,17.3,186,3838,Male,Chile Coast
+Southern Rockhopper,53.9,20.1,180,3294,Male,Falkland Islands
+Southern Rockhopper,50.5,18.1,207,3570,Female,Falkland Islands
+Southern Rockhopper,43.9,20.6,208,3069,Female,Chile Coast
+Southern Rockhopper,49.4,18.2,191,3161,Female,Falkland Islands
+Southern Rockhopper,49.9,20.8,195,3074,Male,Chile Coast
+Southern Rockhopper,50.4,18.4,205,3391,Male,Chile Coast
+Southern Rockhopper,45.3,17.8,203,3239,Female,Falkland Islands
+Southern Rockhopper,52.2,17.8,189,3418,Male,Falkland Islands
+Southern Rockhopper,54.3,20.7,186,3322,Male,Falkland Islands
+Southern Rockhopper,44.8,19.0,193,3810,Female,Falkland Islands
+Southern Rockhopper,54.2,18.5,194,3806,Male,Falkland Islands
+Southern Rockhopper,52.7,17.0,189,3379,Male,Chile Coast
+Southern Rockhopper,45.8,17.8,181,3579,Male,Chile Coast
+Southern Rockhopper,46.2,17.2,186,3721,Female,Chile Coast
+Southern Rockhopper,53.2,18.9,192,3880,Female,Falkland Islands
+Southern Rockhopper,45.4,17.9,188,3155,Male,Falkland Islands
+Southern Rockhopper,47.6,20.6,198,3370,Male,Chile Coast
+Southern Rockhopper,54.2,17.2,186,3509,Female,Chile Coast
+Southern Rockhopper,50.4,17.2,192,3584,Female,Falkland Islands
+Southern Rockhopper,51.4,19.6,189,3084,Male,Falkland Islands
+Southern Rockhopper,48.1,17.5,208,3427,Male,Falkland Islands
+Southern Rockhopper,46.8,20.1,194,3279,Male,Chile Coast
+Southern Rockhopper,52.7,20.5,200,3042,Female,Chile Coast
+Southern Rockhopper,49.8,20.1,184,3205,Female,Falkland Islands
+Southern Rockhopper,53.6,17.1,202,3426,Female,Chile Coast
+Southern Rockhopper,48.4,17.0,204,3323,Male,Falkland Islands
+Southern Rockhopper,49.5,19.7,201,3860,Female,Chile Coast
+Southern Rockhopper,49.4,18.6,208,3577,Female,Chile Coast
+Southern Rockhopper,46.6,17.5,205,3325,Female,Chile Coast
+Southern Rockhopper,50.9,18.9,185,3541,Female,Falkland Islands
+Southern Rockhopper,43.7,18.7,196,3392,Male,Falkland Islands
+Southern Rockhopper,52.0,20.3,203,3034,Male,Falkland Islands
+Southern Rockhopper,45.3,19.1,208,3751,Male,Chile Coast
+Southern Rockhopper,53.1,18.2,192,3423,Female,Chile Coast
+Southern Rockhopper,44.9,17.1,208,3216,Male,Chile Coast
+Southern Rockhopper,45.9,17.3,207,3521,Female,Falkland Islands
+Southern Rockhopper,51.0,20.6,190,3559,Male,Chile Coast
+Southern Rockhopper,43.5,17.7,204,3690,Female,Falkland Islands
+Southern Rockhopper,47.2,18.5,196,3000,Female,Chile Coast
+Southern Rockhopper,45.9,17.8,187,3725,Male,Falkland Islands
+Southern Rockhopper,46.4,17.8,195,3779,Female,Chile Coast
+Southern Rockhopper,45.9,17.3,190,3672,Male,Falkland Islands
+Southern Rockhopper,49.6,20.3,208,3713,Female,Falkland Islands
+Southern Rockhopper,50.2,19.0,181,3885,Female,Falkland Islands
+Southern Rockhopper,47.6,17.6,200,3255,Female,Chile Coast
+Southern Rockhopper,50.0,19.3,193,3752,Female,Falkland Islands
+Southern Rockhopper,46.2,18.8,196,3597,Male,Falkland Islands
+Southern Rockhopper,52.4,18.6,199,3135,Male,Chile Coast
+Southern Rockhopper,54.2,18.5,201,3018,Female,Falkland Islands
+Southern Rockhopper,45.5,18.9,206,3474,Male,Chile Coast
+Southern Rockhopper,54.2,18.9,194,3107,Female,Falkland Islands
+Southern Rockhopper,52.6,18.0,206,3819,Female,Chile Coast
+Southern Rockhopper,54.3,19.1,200,3700,Male,Falkland Islands
+Southern Rockhopper,44.6,19.4,181,3447,Female,Chile Coast
+Southern Rockhopper,44.9,17.7,190,3389,Male,Falkland Islands
+Southern Rockhopper,50.5,17.3,195,3164,Female,Chile Coast
+Southern Rockhopper,49.9,19.5,196,3664,Female,Falkland Islands
+Southern Rockhopper,47.0,20.1,192,3435,Female,Chile Coast
+Southern Rockhopper,50.8,17.1,199,3556,Female,Falkland Islands
+Southern Rockhopper,46.7,17.3,182,3830,Female,Falkland Islands
+Southern Rockhopper,51.3,17.5,190,3533,Male,Chile Coast
+Southern Rockhopper,53.0,17.2,187,3800,Female,Falkland Islands
+Southern Rockhopper,43.1,17.8,208,3552,Male,Falkland Islands
+Southern Rockhopper,46.1,17.3,180,3220,Female,Falkland Islands
+Southern Rockhopper,53.6,18.7,201,3826,Female,Chile Coast
+Southern Rockhopper,47.9,17.8,195,3817,Female,Falkland Islands
+Southern Rockhopper,52.7,17.3,200,3514,Male,Chile Coast
+Southern Rockhopper,53.9,17.5,196,3791,Female,Chile Coast
+Southern Rockhopper,47.9,18.9,182,3250,Female,Chile Coast
+Southern Rockhopper,46.9,20.8,188,3414,Male,Falkland Islands
+Southern Rockhopper,51.1,17.6,194,3664,Male,Falkland Islands
+Southern Rockhopper,53.4,19.5,200,3113,Female,Chile Coast
+Southern Rockhopper,54.3,17.5,203,3238,Female,Chile Coast
+Southern Rockhopper,54.2,19.9,202,3197,Male,Falkland Islands
+Southern Rockhopper,48.3,19.5,203,3093,Male,Chile Coast
+Southern Rockhopper,54.5,20.6,188,3740,Male,Chile Coast
+Southern Rockhopper,49.2,18.8,189,3522,Male,Chile Coast
+Southern Rockhopper,51.8,18.6,198,3629,Male,Falkland Islands
+Southern Rockhopper,51.5,17.2,205,3412,Male,Chile Coast
+Southern Rockhopper,46.1,18.0,194,3798,Male,Chile Coast
+Southern Rockhopper,47.5,20.0,182,3428,Male,Chile Coast
+Southern Rockhopper,54.9,20.1,186,3451,Male,Chile Coast
+Southern Rockhopper,45.8,18.6,203,3694,Male,Falkland Islands
+Southern Rockhopper,45.7,20.7,197,3341,Female,Chile Coast
+Southern Rockhopper,49.0,19.4,196,3437,Male,Chile Coast
+Southern Rockhopper,49.1,17.7,204,3487,Male,Falkland Islands
+Southern Rockhopper,44.6,20.1,207,3852,Female,Chile Coast

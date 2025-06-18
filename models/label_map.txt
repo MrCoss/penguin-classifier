@@ -1,0 +1,18 @@
+0: Adelie
+1: African
+2: Chinstrap
+3: Emperor
+4: Erect-crested
+5: Fiordland
+6: Galápagos
+7: Gentoo
+8: Humboldt
+9: King
+10: Little
+11: Macaroni
+12: Magellanic
+13: Northern Rockhopper
+14: Rockhopper
+15: Royal
+16: Snares
+17: Southern Rockhopper

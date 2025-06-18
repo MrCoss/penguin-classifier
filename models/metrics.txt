@@ -1,0 +1,2 @@
+Logistic Regression Accuracy: 0.97
+KNN Accuracy: 0.96
