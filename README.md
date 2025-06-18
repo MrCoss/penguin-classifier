@@ -1,66 +1,125 @@
-🐧 Penguin Species Classifier
+🐧 PenguinID
 
-Welcome to the Penguin Species Classifier — a sleek and interactive Streamlit app that predicts both the species and sex of a penguin based on body measurements.
+An elegant and educational Streamlit app to predict **penguin species** and **sex** using ML models.
 
-🎓 What This App Does
+---
 
-Using penguin body features, the app:
+## 🚀 Version
 
-Predicts the species (Adelie, Gentoo, Chinstrap)
+**Current Version:** `v1.0`
+📅 **Last Updated:** June 2025
+🛠️ **Major Update:** Now supports **18 species** with location-based prediction
 
-Predicts the sex (Male or Female)
+---
 
-ℹ️ More species will be added in future updates!
+## 🌍 Supported Penguin Species (18)
 
-Built with:
+This version can classify these species:
 
-Logistic Regression (for simplicity and interpretability)
+1. Adelie
+2. Chinstrap
+3. Gentoo
+4. Emperor
+5. King
+6. Rockhopper
+7. Macaroni
+8. Galápagos
+9. Erect-crested
+10. Fiordland
+11. Humboldt
+12. Magellanic
+13. Royal
+14. Snares
+15. Yellow-eyed
+16. African
+17. Little Blue
+18. Northern Rockhopper
 
-Scikit-learn + Seaborn Dataset
+🔬 These predictions are based on **body measurements**, **island habitat**, and **sex**.
 
-Deployed using Streamlit
+---
 
-🚀 Try It Locally
+## 🎯 Features
 
-# Clone the repo
-https://github.com/MrCoss/penguin-classifier.git
+✅ Predict the **species** of a penguin
+✅ Predict the **sex** (Male or Female)
+✅ **Choose algorithm**: Logistic Regression or KNN
+✅ Fully **scaled and preprocessed** inputs
+✅ Supports **11+ island habitats**
+✅ Clean, professional **UI with modern theme**
+✅ Updated **theming and sidebar layout**
+✅ Removed balloons for a smooth experience
+✅ Automatically handles feature mapping
+
+---
+
+## 🧠 How It Works
+
+> Just move the sliders and dropdowns to describe your penguin, then hit "Predict".
+
+The app uses:
+
+* Scikit-learn models (`.pkl` format)
+* Feature engineering and one-hot encoding
+* Scaler for normalization
+* Reverse label maps for clean output
+
+---
+
+## 🧪 Input Features
+
+| Feature          | Description                  |
+| ---------------- | ---------------------------- |
+| Bill Length (mm) | Length of the beak           |
+| Bill Depth (mm)  | Depth/thickness of the beak  |
+| Flipper Length   | Wing span (mm)               |
+| Body Mass        | Weight in grams              |
+| Sex              | Male / Female                |
+| Island           | Origin habitat (11+ options) |
+
+---
+
+## 🛠 Technologies Used
+
+* Python
+* Streamlit
+* Scikit-learn
+* Pandas & NumPy
+* PIL (logo handling)
+* Joblib (model loading)
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/MrCoss/penguin-classifier.git
 cd penguin-classifier
 
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the app
 streamlit run app.py
+```
 
-📊 Input Features Used
+---
 
-bill_length_mm
+## 📸 UI Preview
 
-bill_depth_mm
+> ![Demo Coming Soon]()
 
-flipper_length_mm
+🎨 Theme: Soft Blue & White with neat typography
+🧭 Sidebar navigation for model selection
+📐 Intuitive sliders for input
 
-body_mass_g
+---
 
-These features are scaled and passed to ML models to make predictions.
+## ✍️ Author
 
+**👨‍🏫 Costas Pinto**
+🎓 MCA Student & Educator
+📧 costaspinto21@gmail.com
 
-🔧 Technologies Used
+---
 
-Python 3
+## 📌 License
 
-Streamlit
-
-Scikit-learn
-
-Seaborn (Palmer Penguins dataset)
-
-🌐 Live Demo
-
-Coming soon on Streamlit Cloud...
-
-🙌 Made With Love
-
-💪 By Costas Pinto – MCA Student & Teacher
-
-Let's classify some penguins! ✨
+🆓 This project is free to use for **educational** purposes only.
